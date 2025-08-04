@@ -1,0 +1,40 @@
+---
+title: "ELA AAAS"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    css: styles.css
+    code-fold: false
+    page-layout: full
+    lang: en
+---
+
+```{=html}
+<a href="#main" class="skip-link">Skip to main content</a>
+---
+
+# **Oregon Essentialized Assessment Framework (EAF)**
+
+## **English Language Arts (ELA)**
+
+**Copyright Behavioral Research and Teaching (BRT) 2025**
+
+::: {.section aria-labelledby=“standard1”}
+
+### **E05RI3.1 – Text Structure and Connection**
+
+**ODE Standard:** 5.RI.3
+
+**Oregon ELA Standard:** Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in a historical, scientific, or technical text based on specific information in the text.
+
+**Essentialized Standard:** Identify a connection between two ideas or events in a text.
+
+#### **Low, Medium, and High Parameters**
+
+| Level | Description |
+|--------------|----------------------------------------------------------|
+| **Low (L)** | Recognize two people or things mentioned in a short passage. |
+| **Medium (M)** | Identify how two things in a passage are alike or different. |
+| **High (H)** | Identify the connection between two things (e.g., cause/effect) in a short text. |

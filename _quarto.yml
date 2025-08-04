@@ -1,5 +1,25 @@
 project:
-  title: "aaas_web"
+  type: website
 
-editor: visual
+website:
+  title: "ORExt AAAS"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Science"
+        href: science.qmd
+      - text: "Math"
+        href: math.qmd
+      - text: "ELA"
+        href: ela.qmd
 
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    page-layout: full
+    css: styles.css
+
+output-dir: docs

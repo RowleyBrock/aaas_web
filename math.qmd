@@ -1,0 +1,46 @@
+---
+title: "Math AAAS"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    css: styles.css
+    code-fold: false
+    page-layout: full
+    lang: en
+---
+
+```{=html}
+<a href="#main" class="skip-link">Skip to main content</a>
+---
+
+## 
+**Oregon Essentialized Assessment Framework (EAF)**
+
+## **Mathematics**
+
+**Copyright Behavioral Research and Teaching (BRT) 2025**
+
+::: {.section aria-labelledby=“standard1”}
+
+### **M04NBT2.1 – Place Value Understanding**
+
+**ODE Standard:** 4.NBT.2
+
+**Oregon Math Standard:** Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Use understanding of place value within these forms to compare two multi-digit numbers using \>, =, and \< symbols.
+
+**Essentialized Standard:** Compare two-digit numbers using understanding of base-ten place value.
+
+#### **Low, Medium, and High Parameters**
+
+#### 
+
+| Level | Description |
+|---------------|---------------------------------------------------------|
+| **Low (L)** | Identify which of two whole numbers (under 40) is greater using digit comparison. |
+| **Medium (M)** | Match a number (under 60) to its base-ten numeral or expanded form. |
+| **High (H)** | Use number comparison to solve a simple word problem with numbers up to 60. |
+
+#### 
+

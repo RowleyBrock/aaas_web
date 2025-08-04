@@ -1,5 +1,5 @@
 ---
-title: "Science AAAS Grade 5"
+title: "Science AAAS"
 format:
   html:
     toc: true
@@ -12,9 +12,7 @@ format:
 editor: visual
 ---
 
-```{=html}
-<a href="#main" class="skip-link">Skip to main content</a>-
----
+\`\`\`{=html} <a href="#main" class="skip-link">Skip to main content</a>- ---
 
 # **Oregon Essentialized Assessment Framework (EAF)**
 
@@ -22,8 +20,7 @@ editor: visual
 
 **Copyright Behavioral Research and Teaching (BRT) 2025**
 
-::: {.section aria-labelledby=“standard1”}
-
+::: {.section aria-labelledby="“standard1”"}
 ### **S05ESS1.1 – Brightness of the Sun and Stars**
 
 **ODE Standard:** 5-ESS1-1
@@ -35,7 +32,8 @@ editor: visual
 **Low, Medium, and High Parameters**
 
 | Level | Description |
-|--------------|----------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | **Low (L)** | Compare the Sun to common objects that do not shine on their own (e.g., toy, rock). |
 | **Medium (M)** | Compare the Sun to objects in the sky like clouds, airplanes, or the Moon. |
 | **High (H)** | Recognize the Sun is brighter than other stars because it is closer to Earth. |
+:::
