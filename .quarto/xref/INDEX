@@ -1,5 +1,17 @@
 {
   "aaas_web.qmd": {
     "aaas_web.html": "9214e834"
+  },
+  "science.qmd": {
+    "science.html": "aee8f312"
+  },
+  "math.qmd": {
+    "math.html": "1ea9b23c"
+  },
+  "ela.qmd": {
+    "ela.html": "6caa4f93"
+  },
+  "index.qmd": {
+    "index.html": "e5b9d0b2"
   }
 }
