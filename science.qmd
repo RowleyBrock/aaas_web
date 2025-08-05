@@ -56,60 +56,8 @@ html {
 
 **Copyright Behavioral Research and Teaching (BRT) 2025**
 
- 
- 
-Copyright Behavioral Research and Teaching (BRT) 2025 
-Oregon Essentialized Assessment Framework (EAF) 
 Science Grades 5, 8 and High School 
- 
-About This Document 
-This document presents Oregon’s updated Essentialized Assessment Framework (EAF), for Oregon’s Alternate Assessment, based on 
-the Alternate Academic Achievement Standards (AA-AAAS) for Science, organized by grade level and aligned with the most current 
-state academic content standards. The AA-AAAS are essentialized versions of Oregon’s general education standards, systematically 
-reduced in depth, breadth, and complexity to ensure meaningful access for students with the most significant cognitive disabilities, as 
-required by Every Student Succeeds Act (ESSA, 2015). 
-Each page is structured to serve as a clear, practical tool for classroom planning and instructional decision-making and includes the 
-<div class="table-container">
-| following: |
-</div>
-• 
-Source Standard: The original or updated Oregon grade-level academic content standard that provides the academic foundation 
-for each AA-AAAS. 
-• 
-Alternate Academic Achievement Standard (AA-AAAS): A carefully essentialized version of the source standard, developed 
-using Oregon’s validated SCORE process (Select, COde, Reduce, Essentialize) to maintain the core intent while removing 
-barriers to access. 
-• 
-Low, Medium, and High (L, M, H) Parameters: Defined ranges of complexity that guide how each AA-AAAS can be taught 
-and assessed at levels appropriate to individual student abilities and needs. 
- 
-Approach to Non-Essentialized Standards 
-In linkage with established practice for alternate academic achievement standards, not all general education source standards are 
-essentialized for inclusion in this document. The essentialization process focuses on selecting and adapting standards that can be 
-clearly linked to observable skills and measured reliably within the structure of Oregon’s Extended Assessment. A list of source 
-<div class="table-container">
-| standard codes that were reviewed but not essentialized is included on the last page of this document. | Educators may refer to |
-| Oregon’s published content standards for the full description and context of these codes. |
-</div>
 
- 
- 
-Copyright Behavioral Research and Teaching (BRT) 2025 
- 
-How to Use This Document 
-This resource is designed to be an instructional planning companion for teachers, specialists, and support staff delivering meaningful 
-academic instruction aligned with the Oregon Extended Assessment (ORExt). Unlike previous versions distributed in Excel format, 
-this PDF is streamlined and organized for ease of use, based on direct feedback from Oregon educators. 
-Teachers are encouraged to use the Source Standards for context, the AA-AAAS for instructional targets, and the L/M/H parameters 
-to scaffold lessons and adjust complexity, ensuring each student has an appropriately challenging and accessible pathway toward 
-grade-level expectations. 
- 
-Contact 
-For additional support in implementing the AA-AAAS or for questions about alignment and instruction, please contact the Oregon 
-Department of Education or visit ODE’s Alternate Assessment webpage. 
- 
-
- 
 <details open>
 <summary><strong>Grade 5</strong></summary>
 Science Grade 5 
