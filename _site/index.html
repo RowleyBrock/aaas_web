@@ -143,56 +143,65 @@ ul.task-list li input[type="checkbox"] {
 <p>This site provides access to the <strong>Alternate Academic Achievement Standards (AAAS)</strong> for multiple content areas.<br>
 Select a subject below to explore the standards.</p>
 <div class="card-grid">
-<div class="card">
-<img src="images/science-icon.svg" alt="Microscope icon representing Science" class="card-icon">
-<h2 class="anchored" data-anchor-id="welcome-to-the-oregon-essentialized-assessment-framework-eaf">
-<a href="./science.html">Science</a>
-</h2>
-<p>
-Explore Essentialized Science Standards, aligned with Oregon academic content standards.
-</p>
+
+  <!-- CTA Card -->
+  <div class="card cta-card">
+    <button onclick="printAllEAFs()" aria-label="Print all content areas to PDF" class="cta-button">
+      <img src="images/print-icon.svg" alt="" class="cta-icon">
+      <span>Print All EAFs to PDF</span>
+    </button>
+    <p class="cta-text">Download Science, Mathematics, and ELA standards in a single PDF for easy sharing and printing.</p>
+  </div>
+
+  <!-- Science Card -->
+  <div class="card">
+    <img src="images/science-icon.svg" alt="Microscope icon representing Science" class="card-icon">
+    <h2 class="anchored" data-anchor-id="welcome-to-the-oregon-essentialized-assessment-framework-eaf"><a href="science.html">Science</a></h2>
+    <p>Explore Essentialized Science Standards, aligned with Oregon academic content standards.</p>
+  </div>
+
+  <!-- Math Card -->
+  <div class="card">
+    <img src="images/math-icon.svg" alt="Calculator icon representing Math" class="card-icon">
+    <h2 class="anchored"><a href="math.html">Mathematics</a></h2>
+    <p>View Essentialized Math Standards, organized by grade level and complexity.</p>
+  </div>
+
+  <!-- ELA Card -->
+  <div class="card">
+    <img src="images/ela-icon.svg" alt="Book icon representing English Language Arts" class="card-icon">
+    <h2 class="anchored"><a href="ela.html">English Language Arts (ELA)</a></h2>
+    <p>Access Essentialized ELA Standards with Low, Medium, and High instructional parameters.</p>
+  </div>
+
 </div>
-<div class="card">
-<img src="images/math-icon.svg" alt="Calculator icon representing Math" class="card-icon">
-<h2 class="anchored">
-<a href="./math.html">Mathematics</a>
-</h2>
-<p>
-View Essentialized Math Standards, organized by grade level and complexity.
-</p>
-</div>
-<div class="card">
-<img src="images/ela-icon.svg" alt="Book icon representing English Language Arts" class="card-icon">
-<h2 class="anchored">
-<a href="./ela.html">English Language Arts (ELA)</a>
-</h2>
-<p>
-Access Essentialized ELA Standards with Low, Medium, and High instructional parameters.
-</p>
-</div>
-</div>
-<hr>
-<section id="purpose" class="level2">
-<h2 class="anchored" data-anchor-id="purpose">Purpose</h2>
-<p>The EAF is designed to help educators provide meaningful, accessible instruction for students with the most significant cognitive disabilities while maintaining alignment to Oregon’s academic content standards.</p>
-<hr>
-</section>
-<section id="how-to-use-this-site" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-use-this-site">How to Use This Site</h2>
-<ol type="1">
-<li>Use the subject cards above or the navigation bar at the top.</li>
-<li>Each page includes:
-<ul>
-<li>Original Oregon content standard</li>
-<li>Essentialized standard</li>
-<li>Low, Medium, and High parameters</li>
-</ul></li>
-<li>Standards are updated as Oregon content standards change.</li>
-</ol>
-<hr>
+<script>
+async function printAllEAFs() {
+  const pages = ["science.html", "math.html", "ela.html"];
+  let content = "";
+  for (const page of pages) {
+    try {
+      const res = await fetch(page);
+      if (!res.ok) throw new Error(`HTTP ${res.status} - ${page}`);
+      const html = await res.text();
+      const main = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+      if (main && main[1]) {
+        content += `<h1>${page.replace(".html","").toUpperCase()}</h1>` + main[1] + "<hr/>";
+      }
+    } catch (e) {
+      console.error(`Fetch error for ${page}:`, e);
+    }
+  }
+  const w = window.open("", "_blank");
+  w.document.write(`<html><head><title>All EAFs</title><style>
+    body{font-family:Arial;margin:20px} h1{color:#004c97} hr{margin:2rem 0}
+  </style></head><body>${content}</body></html>`);
+  w.document.close();
+  w.print();
+}
+</script>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

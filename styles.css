@@ -1,10 +1,13 @@
+/* Grid Layout */
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
   margin-top: 1.5rem;
+  align-items: stretch;
 }
 
+/* Card Base Style */
 .card {
   border: 2px solid #004c97;
   border-radius: 10px;
@@ -12,13 +15,19 @@
   background-color: #ffffff;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
 }
 
+/* Headings inside cards */
 .card h2 {
   margin-top: 0.5rem;
   color: #004c97;
 }
 
+/* Card Links */
 .card a {
   text-decoration: none;
   color: #004c97;
@@ -29,21 +38,188 @@
   text-decoration: underline;
 }
 
+/* Card Paragraphs */
 .card p {
   margin-bottom: 0;
+  flex-grow: 1; /* Makes sure descriptions stretch evenly */
 }
 
+/* Icons in Cards */
 .card-icon {
   width: 60px;
   height: 60px;
-  margin-bottom: 0.5rem;
+  margin: 0 auto 0.5rem auto;
 }
 
-.print-icon {
-  display: inline-block;
-  width: 32px;
-  height: 32px;
-  margin-left: 0.5rem;
-  vertical-align: middle;
+/* CTA Card Special Styling */
+.cta-card {
+  background-color: #eaf3fc;
+  border: 3px solid #004c97;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* CTA Button Styling */
+.cta-button {
+  background-color: #004c97;
+  color: #ffffff;
+  border: none;
+  padding: 0.75rem 1rem;
+  font-size: 1.1rem;
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+}
+
+.cta-button:hover,
+.cta-button:focus {
+  background-color: #003366;
+}
+
+/* CTA Icon */
+.cta-icon {
+  width: 28px;
+  height: 28px;
+  margin-right: 0.5rem;
+}
+
+/* CTA Text */
+.cta-text {
+  color: #004c97;
+  font-size: 1rem;
+}
+
+/* Skip to main content link (WCAG compliant) */
+.skip-link {
+  position: absolute;
+  top: -40px; /* Move it off-screen */
+  left: 0;
+  background-color: #004c97; /* Dark blue background */
+  color: #ffffff; /* White text for contrast */
+  padding: 0.5rem 1rem;
+  z-index: 1000;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: top 0.3s ease; /* Smooth slide-in */
+}
+
+/* Show link when focused */
+.skip-link:focus,
+.skip-link:active {
+  top: 10px; /* Slide into view */
+}
+
+/* General table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+}
+
+/* Table header */
+table th {
+  background-color: #004c97;
+  color: #ffffff;
+  text-align: left;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+}
+
+/* Table body cells */
+table td {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+}
+
+/* Zebra striping */
+table tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+/* Mobile responsiveness */
+.table-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Ensure long text wraps nicely */
+table td, table th {
+  word-wrap: break-word;
+}
+
+/* Back to Home link styles */
+.back-home-link {
+  margin-right: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: #004c97;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.back-home-link:hover,
+.back-home-link:focus {
+  color: #003366;
+  text-decoration: underline;
+}
+
+/* Back to Home link + icon as one clickable element */
+.back-home-combo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  padding: 0.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: #004c97;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.back-home-combo img {
+  width: 50px;
+  height: 50px;
+  margin-right: 0.5rem;
+}
+
+/* Hover effect */
+.back-home-combo:hover,
+.back-home-combo:focus {
+  color: #003366;
+  text-decoration: underline;
+}
+
+/* Container for back-home combo and print button */
+.page-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem; /* consistent spacing between elements */
+  margin-bottom: 1.5rem; /* consistent space below the header block */
+}
+
+/* Page title styling to match home page cards */
+main h1 {
+  font-size: 1.75rem; /* similar to card title size */
+  font-weight: bold;
+  color: #004c97;
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+nav.toc ul ul {
+  display: none; /* hide sub-items by default */
+}
+
+.toc-expanded > ul {
+  display: block !important; /* show when expanded */
+}
+
+/* Enable smooth scroll for in-page navigation */
+html {
+  scroll-behavior: smooth;
 }

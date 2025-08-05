@@ -13,5 +13,14 @@
   },
   "index.qmd": {
     "index.html": "e5b9d0b2"
+  },
+  "math_full.qmd": {
+    "math_full.html": "b1b277bd"
+  },
+  "ela_full.qmd": {
+    "ela_full.html": "51fb927f"
+  },
+  "science_full.qmd": {
+    "science_full.html": "63756eb3"
   }
 }
