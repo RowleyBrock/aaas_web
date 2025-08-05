@@ -10,98 +10,68 @@ format:
     page-layout: full
     lang: en
 ---
-<div class="page-header">
-  <a href="index.html" class="back-home-combo" aria-label="Return to the ORExt AAAS Home page from Mathematics">
-    <img src="images/math-icon.svg" alt="Mathematics icon" />
-    &larr; Back to Home
-  </a>
-  <button onclick="window.print()" aria-label="Print the Mathematics Essentialized Assessment Framework page to PDF" class="cta-button">
-    <img src="images/print-icon.svg" alt="Print icon" class="cta-icon" />
-    <span>Print to PDF</span>
-  </button>
-</div>
-```{=html}
-<div style="display:flex; justify-content:center; margin-bottom:1.5rem;">
-
-</div>
-
-```
-
-<div class="page-header">
-  
-  
-</div>
-```{=html}
-<style>
-.page-header {
-  margin-bottom: 1.5rem;
-}
-main h1 {
-  margin-top: 0;
-  padding-top: 0.25rem;
-}
-</style>
-```
 
 ```{=html}
-<style>
-html {
-  scroll-behavior: smooth;
-}
-</style>
-```
+<a href="#main" class="skip-link">Skip to main content</a>
+---
 
-<main id="main" role="main">
-# Oregon Essentialized Assessment Framework (EAF) – Mathematics
+## 
+### Math Grade 3
 
-**Copyright Behavioral Research and Teaching (BRT) 2025**
-
-Mathematics 
-
-<details open>
-<summary><strong>Grade 3</strong></summary>
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+```{=html}
+### Math Grade 3
+<table class="standards-table">
+  <thead>
+    <tr>
+      <th scope="col">ORExt Standard Code</th>
+      <th scope="col">Equivalent OR Standard Code</th>
+      <th scope="col">2021 Oregon Mathematics Standards</th>
+      <th scope="col">Oregon Alternate Academic Achievement Standard (Essentialized Standard)</th>
+      <th scope="col">Low (L), Medium (M), High (H) Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M03GEO1.1
-M03GEO1.1
-3.GM.A.1
-Understand that shapes in different 
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M03GEO1.1</td>
+      <td>3.GM.A.1</td>
+      <td>Understand that shapes in different 
 categories may share attributes and 
 that the shared attributes can define
-a larger category
-Use attributes of triangles,
+a larger category</td>
+      <td>Use attributes of triangles,
 squares, and circles to
-classify shapes.
-L: Identify triangles (all shapes 
+classify shapes.</td>
+      <td>L: Identify triangles (all shapes 
 in answer choices same-size). 
 M: Identify squares (shapes in 
 answer choices of various sizes). 
 H: Identify circles (shapes in 
-answer choices of various sizes).
-### M03GEO1.2
-M03GEO1.2
-3.GM.A.2
-Partition shapes into parts with 
+answer choices of various sizes).</td>
+    </tr>
+    <tr>
+      <td>M03GEO1.2</td>
+      <td>3.GM.A.2</td>
+      <td>Partition shapes into parts with 
 equal areas and express the area of 
 each part as a unit fraction of the 
-whole
-Use unit squares to
-determine 1/2 or the whole.
-L: Use unit squares to identify 
+whole</td>
+      <td>Use unit squares to
+determine 1/2 or the whole.</td>
+      <td>L: Use unit squares to identify 
 whole areas shaded up to 2X2. 
 M: Use unit squares to identify 
 whole or 1/2 areas shaded up to 
@@ -111,164 +81,159 @@ H: Use unit squares to identify
 whole areas shaded up to 4X4 or 
 1/2 of any square figure up to 
 4X4 (with shading done on 
-diagonals).
-
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+diagonals).</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M03MED1.1
-M03MED1.1
-3.GM.B.3
-Tell, write, and measure time to the 
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M03MED1.1</td>
+      <td>3.GM.B.3</td>
+      <td>Tell, write, and measure time to the 
 nearest minute. Solve problems in
 authentic contexts that involve 
 addition and subtraction of time 
-intervals in minutes.
-Tell time to the nearest 
-hour.
-L: Items involving 3:00, 6:00, 
+intervals in minutes.</td>
+      <td>Tell time to the nearest 
+hour.</td>
+      <td>L: Items involving 3:00, 6:00, 
 9:00. 
 M: Items involving 1:00, 2:00, 
 4:00, 5:00, 7:00, 8:00, 10:00, 
 11:00. 
 H: Items involving Noon and/or 
-AM/PM.
-### M03MED1.2
-M03MED1.2
-3.GM.B.4
-Measure, estimate and solve 
+AM/PM.</td>
+    </tr>
+    <tr>
+      <td>M03MED1.2</td>
+      <td>3.GM.B.4</td>
+      <td>Measure, estimate and solve 
 problems in authentic contexts that 
 involve liquid volumes and masses 
 of objects using standard units of 
 grams (g), kilograms (kg), and 
-liters (l).
-Compare amounts/sizes
+liters (l).</td>
+      <td>Compare amounts/sizes
 using terms: same, more,
-less, larger, smaller
-L: Compare amounts/sizes that 
+less, larger, smaller</td>
+      <td>L: Compare amounts/sizes that 
 are the same. 
 M: Compare amounts/sizes that 
 are 3 or more units apart. 
 H: Compare amounts/sizes that 
-are no more than 2 units apart.
-### M03MED2.3
-M03MED2.3
-3.DR.B.2
-Analyze measurement data with a 
+are no more than 2 units apart.</td>
+    </tr>
+    <tr>
+      <td>M03MED2.3</td>
+      <td>3.DR.B.2</td>
+      <td>Analyze measurement data with a 
 scaled picture graph or a scaled bar 
 graph to represent a data set with 
 several categories. Interpret 
 information presented to answer 
-investigative questions.
-Compare amounts on
+investigative questions.</td>
+      <td>Compare amounts on
 picture graphs using terms:
-same, more, less.
-L: Compare picture/pie graphs 
+same, more, less.</td>
+      <td>L: Compare picture/pie graphs 
 that are the same. 
 M: Compare picture/pie graphs 
 that are very far apart. 
 H: Compare picture/pie graphs 
-that are close together.
-
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+that are close together.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M03MED2.4
-M03MED2.4
-3.MD.B.4
-Generate questions to investigate 
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M03MED2.4</td>
+      <td>3.MD.B.4</td>
+      <td>Generate questions to investigate 
 situations within the classroom, 
 school, or community. Collect or 
 consider measurement data that can 
 naturally answer questions by 
 using information presented in a 
-scaled picture and/or bar graph.
-Compare measurements in
+scaled picture and/or bar graph.</td>
+      <td>Compare measurements in
 inches using terms same,
-more, or less.
-L: Compare objects that are the 
+more, or less.</td>
+      <td>L: Compare objects that are the 
 same length. 
 M: Compare objects that are 3-5 
 inches apart. 
 H: Compare objects that are 
-within one inch in length.
-### M03MED3.
-M03MED3.5A
-3.GM.C.5, 
-<div class="table-container">
-| 3.MD.C.6, |
-</div>
-3.MD.C.7, 
-Recognize area as an attribute of 
+within one inch in length.</td>
+    </tr>
+    <tr>
+      <td>M03MED3.5A</td>
+      <td>3.GM.C.5,
+3.MD.C.6,
+3.MD.C.7,</td>
+      <td>Recognize area as an attribute of 
 plane figures and understand 
 concepts of area measurement 
 presented in authentic contexts by 
-tiling and counting unit squares.
-Use unit squares to 
+tiling and counting unit squares.</td>
+      <td>Use unit squares to 
 measure
-areas in square inches.
-L: Identify areas using unit 
+areas in square inches.</td>
+      <td>L: Identify areas using unit 
 square inches up to 4 square 
 inches. 
 M: Identify areas using unit 
 squares up to 9 square units. 
 H: Identify areas using unit 
-squares up to 16 square units.
-
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+squares up to 16 square units.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M03MED3.
-M03MED3.7B
-3.GM.C.7
-Relate area to multiplication and 
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M03MED3.7B</td>
+      <td>3.GM.C.7</td>
+      <td>Relate area to multiplication and 
 addition. Use relevant 
 representations to solve problems 
-in authentic contexts.
-Use multiplication and
+in authentic contexts.</td>
+      <td>Use multiplication and
 addition of unit squares to
 determine the area of a
-shape in authentic contexts.
-L: Determine the area of a shape 
+shape in authentic contexts.</td>
+      <td>L: Determine the area of a shape 
 by multiplying side lengths up to 
 4 square inches or by adding 
 unit squares up to 5.
@@ -279,188 +244,184 @@ by adding unit squares up to 15.
 H: Determine the area of a shape 
 by multiplying side lengths up to 
 16 square inches or by adding 
-unit squares up to 20.
-### M03MED4.8
-M03MED4.8
-3.GM.D.8
-Solve problems involving authentic
+unit squares up to 20.</td>
+    </tr>
+    <tr>
+      <td>M03MED4.8</td>
+      <td>3.GM.D.8</td>
+      <td>Solve problems involving authentic
 contexts for perimeters of 
-polygons.
-Determine perimeter of
+polygons.</td>
+      <td>Determine perimeter of
 equilateral triangles and
-squares.
-L: Add perimeter of equilateral 
+squares.</td>
+      <td>L: Add perimeter of equilateral 
 triangles and squares up to 6. 
 M: Add perimeter of triangles 
 and squares up to 12. 
 H: Add perimeter of squares up 
-to 20.
-### M03NBT1.2
-M03NBT1.2
-3.NBT.A.2
-Fluently add and subtract within 
+to 20.</td>
+    </tr>
+    <tr>
+      <td>M03NBT1.2</td>
+      <td>3.NBT.A.2</td>
+      <td>Fluently add and subtract within 
 1000 using accurate, efficient, and 
 flexible strategies and algorithms 
 based on place value and properties 
-of operations.
-Add and subtract whole
-numbers up to 20.
-L: Add (1-10). 
+of operations.</td>
+      <td>Add and subtract whole
+numbers up to 20.</td>
+      <td>L: Add (1-10). 
 M: Add (11-20) and subtract (1-
 10). 
-H: Subtract (16-20).
-
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+H: Subtract (16-20).</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M03NBT1.3
-M03NBT1.3
-3.NBT.A.3
-Find the product of one-digit 
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M03NBT1.3</td>
+      <td>3.NBT.A.3</td>
+      <td>Find the product of one-digit 
 whole numbers by multiples of 10 
 in the range 10-90, such as 9 x 80. 
 Students use a range of strategies 
 and algorithms based on place 
-value and properties of operations.
-Multiply numbers 1-5.
-L: Multiply 1 X 1-2. 
+value and properties of operations.</td>
+      <td>Multiply numbers 1-5.</td>
+      <td>L: Multiply 1 X 1-2. 
 M: Multiply 2 by 2-4. 
-H: Multiply 3-5 by 3-5.
-### M03NOF1.1
-M03NOF1.1
-3.NF.A.1
-Understand the concept of a unit 
+H: Multiply 3-5 by 3-5.</td>
+    </tr>
+    <tr>
+      <td>M03NOF1.1</td>
+      <td>3.NF.A.1</td>
+      <td>Understand the concept of a unit 
 fraction and explain how multiple 
 copies of a unit fraction form a non-
-unit fraction.
-Identify halves of wholes.
-L: Half of 2, 4, 6. 
+unit fraction.</td>
+      <td>Identify halves of wholes.</td>
+      <td>L: Half of 2, 4, 6. 
 M: Half of 10, 12, 14. 
-H: Half of 16, 18, 20.
-### M03NOF1.
-M03NOF1.2a
-3.NF.A.2, 
-3.NF.A.3
-Understand a fraction as a number 
+H: Half of 16, 18, 20.</td>
+    </tr>
+    <tr>
+      <td>M03NOF1.2a</td>
+      <td>3.NF.A.2,
+3.NF.A.3</td>
+      <td>Understand a fraction as a number 
 on the number line. Represent 
-fractions on a number line diagram.
-Represent 1/2 on a number 
-line.
-L: Half between 1-2. 
+fractions on a number line diagram.</td>
+      <td>Represent 1/2 on a number 
+line.</td>
+      <td>L: Half between 1-2. 
 M: Half between 3-7. 
-H: Half between 8-10.
-### M03NOF1.
-M03NOF1.3b
- 3.NF.A.2, 
-3.NF.A.3
-Explain equivalence of fractions in 
+H: Half between 8-10.</td>
+    </tr>
+    <tr>
+      <td>M03NOF1.3b</td>
+      <td>3.NF.A.2,
+3.NF.A.3</td>
+      <td>Explain equivalence of fractions in 
 special cases, and compare 
 fractions by reasoning about their 
-size.
-Match equivalent fractions 
-(1/2).
-L: 2/4, 3/6, 4/8. 
+size.</td>
+      <td>Match equivalent fractions 
+(1/2).</td>
+      <td>L: 2/4, 3/6, 4/8. 
 M: 5/10, 6/12, 7/14. 
-H: 8/16, 9/18, 10/20.
-### M03OAT1.1
-M03OAT1.1
-3.OA.A.1
-Represent and interpret 
+H: 8/16, 9/18, 10/20.</td>
+    </tr>
+    <tr>
+      <td>M03OAT1.1</td>
+      <td>3.OA.A.1</td>
+      <td>Represent and interpret 
 multiplication of two factors as 
-repeated addition of equal groups.
-Identify a product of whole 
-number groups 1-5.
-L: 1 through 5 multiplied by 1. 
-<div class="table-container">
-| M: 1 through 3 multiplied by | 2 |
-</div>
+repeated addition of equal groups.</td>
+      <td>Identify a product of whole 
+number groups 1-5.</td>
+      <td>L: 1 through 5 multiplied by 1. 
+M: 1 through 3 multiplied by   2 
 or 3. 
-<div class="table-container">
-| H: 3 and 4 multiplied by | 4 |
-</div>
-or 5.
-
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+H: 3 and 4 multiplied by         4 
+or 5.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M03OAT1.2
-M03OAT1.2
-3.OA.A.2
-Represent and interpret whole-
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M03OAT1.2</td>
+      <td>3.OA.A.2</td>
+      <td>Represent and interpret whole-
 number quotients as dividing an 
-amount into equal sized groups.
-Perform division problems 
+amount into equal sized groups.</td>
+      <td>Perform division problems 
 using grouping strategies 
-(1-5).
-L: Two groups of 2-3. 
+(1-5).</td>
+      <td>L: Two groups of 2-3. 
 M: Two groups of 4-5. 
-H: Three groups of 2-5.
-### M03OAT1.3
-M03OAT1.3
-3.OA.A.3
-Use multiplication and division 
+H: Three groups of 2-5.</td>
+    </tr>
+    <tr>
+      <td>M03OAT1.3</td>
+      <td>3.OA.A.3</td>
+      <td>Use multiplication and division 
 within 100 to solve problems in 
 authentic contexts involving equal 
 groups, arrays, and/or 
-measurement quantities.
-Solve word problems
+measurement quantities.</td>
+      <td>Solve word problems
 involving addition 
 (numbers 1-20) and 
 multiplication
-(numbers 1-5).
-L: Add 1-10. 
-<div class="table-container">
-| M: Add 11-20. multiply 1-2 | by |
-</div>
-2-4. 
-H: Multiply 3-5 by 3-5.
-### M03OAT1.4
-M03OAT1.4
-3.OA.A.4
-Determine the unknown number in 
+(numbers 1-5).</td>
+      <td>L: Add 1-10. 
+M: Add 11-20. multiply 1-2  by 
+2-4.
+H: Multiply 3-5 by 3-5.</td>
+    </tr>
+    <tr>
+      <td>M03OAT1.4</td>
+      <td>3.OA.A.4</td>
+      <td>Determine the unknown number in 
 a multiplication or division 
 equation relating three whole 
 numbers by applying the 
 understanding of the inverse 
 relationship of multiplication and 
-division.
-Students will identify and 
+division.</td>
+      <td>Students will identify and 
 describe simple patterns 
 (e.g., doubling, skipping 
 numbers) and use them to 
 solve problems involving 
 proportional relationships 
-in authentic contexts. 
-L: Identify the next number in a 
-<div class="table-container">
-| pattern that increases by 1 | or 2. |
-</div>
+in authentic contexts.</td>
+      <td>L: Identify the next number in a 
+pattern that increases by 1    or 2. 
 M: Identify a number that 
 follows a doubling or skip-
 counting pattern (by 2s, 5s, or 
@@ -468,339 +429,351 @@ counting pattern (by 2s, 5s, or
 H: Use a simple number pattern 
 (e.g., doubling or skip-counting) 
 to solve a one-step word 
-problem.
-### M03OAT2.5
-M03OAT2.5
-3.OA.B.5
-Apply properties of operations as 
-strategies to multiply and divide.
-Identify equivalent addition 
-problems.
-L: 1-5. 
+problem.</td>
+    </tr>
+    <tr>
+      <td>M03OAT2.5</td>
+      <td>3.OA.B.5</td>
+      <td>Apply properties of operations as 
+strategies to multiply and divide.</td>
+      <td>Identify equivalent addition 
+problems.</td>
+      <td>L: 1-5. 
 M: 6-14. 
-H: 15-20.
-
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+H: 15-20.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M03OAT2.6
-M03OAT2.6
-3.OA.B.6
-Understand division as an 
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M03OAT2.6</td>
+      <td>3.OA.B.6</td>
+      <td>Understand division as an 
 unknown-factor in a multiplication 
-problem.
-Identify representations of 
+problem.</td>
+      <td>Identify representations of 
 one half in pictorial and 
 numerical contexts; 
 calculate 1/2 of numbers 1-
-20.
-L: Pictorial representations of 
+20.</td>
+      <td>L: Pictorial representations of 
 1/2. 
 M: Numerical representations of 
 1/2. 
 H: Identify amounts that are half 
-of 1-20.
-### M03OAT4.8
-M03OAT4.8
-3.OA.D.8
-Solve two-step problems in 
+of 1-20.</td>
+    </tr>
+    <tr>
+      <td>M03OAT4.8</td>
+      <td>3.OA.D.8</td>
+      <td>Solve two-step problems in 
 authentic contexts that use addition, 
 subtraction, multiplication, and 
 division in equations with a letter 
-standing for the unknown quantity.
-Solve one-step word
+standing for the unknown quantity.</td>
+      <td>Solve one-step word
 problems using addition 
-and subtraction.
-L: Add (1-10). 
+and subtraction.</td>
+      <td>L: Add (1-10). 
 M: Add (1-10) and subtract (1-
 5). 
-H: Subtract (6-10).
-### M03OAT4.9
-M03OAT4.9
-3.OA.D.9
-Identify and explain arithmetic 
+H: Subtract (6-10).</td>
+    </tr>
+    <tr>
+      <td>M03OAT4.9</td>
+      <td>3.OA.D.9</td>
+      <td>Identify and explain arithmetic 
 patterns using properties of 
 operations, including patterns in 
 the addition table or multiplication 
-table.
-Perform basic counting
+table.</td>
+      <td>Perform basic counting
 operations, up to skip
-counting by 2s and 5s.
-L: Count 1-10 objects. 
+counting by 2s and 5s.</td>
+      <td>L: Count 1-10 objects. 
 M: Count 11-20 objects. 
 H: Skip count by 2s and 5s to 
-20.
-
-Math Grade 3
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+20.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-## M03Oat7
-3.OA.C.7
-Fluently multiply and divide within 
+Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M03OAT7</td>
+      <td>3.OA.C.7</td>
+      <td>Fluently multiply and divide within 
 100 using accurate, efficient, and 
 flexible strategies and algorithms 
 based on place value and properties 
-of operations.
-Multiply and divide within 
-1-5 using strategies based 
-on place value and 
-properties of operations.
-L: Identify the product of two 
+of operations.</td>
+      <td>Multiply and divide within 
+1-5 using strategies based
+on place value and
+properties of operations.</td>
+      <td>L: Identify the product of two 
 whole numbers from 1-3. 
 M: Identify the quotient of a 
 whole number (up to 10) divided 
 by 2 or 5. 
 H: Solve a one-step story 
 problem involving multiplication 
-or division within 1–5.
-3.NBT.A.1
-Standards not Essentialized: 
-Please refer to Oregon’s published content standards for the full description and context of these codes.
+or division within 1–5.</td>
+    </tr>
+  </tbody>
+</table>
+```
 
-</details>
-<details open>
-<summary><strong>Grade 4</strong></summary>
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+### Math Grade 4
+
+```{=html}
+### Math Grade 4
+<table class="standards-table">
+  <thead>
+    <tr>
+      <th scope="col">ORExt Standard Code</th>
+      <th scope="col">Equivalent OR Standard Code</th>
+      <th scope="col">2021 Oregon Mathematics Standards</th>
+      <th scope="col">Oregon Alternate Academic Achievement Standard (Essentialized Standard)</th>
+      <th scope="col">Low (L), Medium (M), High (H) Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04GEO1.1
-M04GEO1.1
-4.GM.A.1
-Explore, investigate, and draw 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M04GEO1.1</td>
+      <td>4.GM.A.1</td>
+      <td>Explore, investigate, and draw 
 points, lines, line segments, rays, 
 angles, and perpendicular and 
 parallel lines. Identify these in two-
-dimensional figures.
-Identify points, line segments, 
-and angles.
-L: Identify point when given a 
+dimensional figures.</td>
+      <td>Identify points, line segments, 
+and angles.</td>
+      <td>L: Identify point when given a 
 point, line, and angle.
 M: Identify line segments. 
-H: Identify angles.
-### M04GEO1.2
-M04GEO1.2
-4.GM.A.2
-Classify two-dimensional figures 
+H: Identify angles.</td>
+    </tr>
+    <tr>
+      <td>M04GEO1.2</td>
+      <td>4.GM.A.2</td>
+      <td>Classify two-dimensional figures 
 based on the presence or absence 
 of parallel or perpendicular lines, 
 or the presence or absence of 
-angles of a specified size.
-Identify triangles, circles, 
-squares, and rectangles.
-L: Identify triangles. 
+angles of a specified size.</td>
+      <td>Identify triangles, circles, 
+squares, and rectangles.</td>
+      <td>L: Identify triangles. 
 M: Identify squares and circles. 
-H: Identify rectangles.
-### M04GEO1.3
-M04GEO1.3
-4.GM.A.3
-Recognize and draw a line of 
+H: Identify rectangles.</td>
+    </tr>
+    <tr>
+      <td>M04GEO1.3</td>
+      <td>4.GM.A.3</td>
+      <td>Recognize and draw a line of 
 symmetry for a two dimensional 
-figure.
-Identify lines that divide 
+figure.</td>
+      <td>Identify lines that divide 
 objects/shapes into equal 
-halves.
-L: Identify line that divides 
+halves.</td>
+      <td>L: Identify line that divides 
 objects in half. 
 M: Identify line that divides 
 squares or circles in half. 
 H: Identify line that divides 
-rectangles in half.
-### M04MED1.1
-M04MED1.1
-4.MD.A.1
-Know relative sizes of 
+rectangles in half.</td>
+    </tr>
+    <tr>
+      <td>M04MED1.1</td>
+      <td>4.MD.A.1</td>
+      <td>Know relative sizes of 
 measurement units and express 
 measurements in a larger unit in 
-terms of a smaller unit.
-Make comparisons of time, 
+terms of a smaller unit.</td>
+      <td>Make comparisons of time, 
 weight, and length units using 
-graphic displays.
-L: Compare two measures that 
-<div class="table-container">
-| vary by | 5 or more units. |
-</div>
+graphic displays.</td>
+      <td>L: Compare two measures that 
+vary by  5 or more units. 
 M: Compare two measures that 
 vary by 3-4 units. 
 H: Compare two measures that 
-vary by 1-2 units.
-
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+vary by 1-2 units.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04MED1.2
-M04MED1.2
-4.GM.B.5
-Apply knowledge of the four 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M04MED1.2</td>
+      <td>4.GM.B.5</td>
+      <td>Apply knowledge of the four 
 operations and relative size of 
 measurement units to solve 
 problems in authentic contexts that 
 include familiar fractions or 
-decimals.
-Represent time, weight, and 
+decimals.</td>
+      <td>Represent time, weight, and 
 length measurements using 
 diagrams with a measurement 
-scale.
-L: Perform measures of items 
+scale.</td>
+      <td>L: Perform measures of items 
 measuring 1-5 units. 
 M: Perform measures of items 
 measuring 6-10 units. 
 H: Perform measures of items 
-measuring 11-20 units.
-### M04MED1.3
-M04MED1.3
-4.GM.B.6
-Apply the area and perimeter 
+measuring 11-20 units.</td>
+    </tr>
+    <tr>
+      <td>M04MED1.3</td>
+      <td>4.GM.B.6</td>
+      <td>Apply the area and perimeter 
 formulas for rectangles in 
 authentic contexts and 
-mathematical problems.
-Use unit square feet to 
+mathematical problems.</td>
+      <td>Use unit square feet to 
 determine areas up to 20 
-square feet.
-L: Use unit square feet to 
+square feet.</td>
+      <td>L: Use unit square feet to 
 determine areas up to 5 square 
 feet. 
 M: Use unit squares to determine 
 areas from 6-10 square feet. 
 H: Use unit squares to determine 
-areas up to 20 square feet.
-### M04MED2.4
-M04MED2.4
-4.DR.B.2
-Analyze line plots to display a 
+areas up to 20 square feet.</td>
+    </tr>
+    <tr>
+      <td>M04MED2.4</td>
+      <td>4.DR.B.2</td>
+      <td>Analyze line plots to display a 
 distribution of numerical 
 measurement data, which include 
 displays of data sets of fractional 
 measurements with the same 
 denominator. Interpret information 
 presented to answer investigative
-questions.
-Identify how many times 
+questions.</td>
+      <td>Identify how many times 
 whole numbers or simple 
 fraction (1/2, 1/4, 1/8) 
-appears on a line plot.
-L: Count how many times 1/2 
+appears on a line plot.</td>
+      <td>L: Count how many times 1/2 
 appears on a line plot. 
 M: Count and compare how 
 many times 1/2 and 1/4 appear. 
 H: Identify which fraction 
 appears most often among 1/2, 
-1/4, 1/8.
-
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+1/4, 1/8.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04MED3.
-M04MED3.5a
-4.GM.C.7
-Recognize angles as geometric 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M04MED3.5a</td>
+      <td>4.GM.C.7</td>
+      <td>Recognize angles as geometric 
 shapes that are formed wherever 
 two rays share a common 
 endpoint. Understand and apply 
-concepts of angle measurement.
-Match identical angles (45, 
-60, 90).
-L: Match labeled angles that are 
+concepts of angle measurement.</td>
+      <td>Match identical angles (45, 
+60, 90).</td>
+      <td>L: Match labeled angles that are 
 the same (90). 
 M: Match labeled angles that are 
 the same (45, 60, 90). 
 H: Match equivalent angles (45, 
-60, and 90).
-### M04NBT1.1
-M04NBT1.1
-4.NBT.A.1
-Recognize that in a multi-digit 
+60, and 90).</td>
+    </tr>
+    <tr>
+      <td>M04NBT1.1</td>
+      <td>4.NBT.A.1</td>
+      <td>Recognize that in a multi-digit 
 whole number, a digit in one place 
 represents ten times what it 
-represents in the place to its right.
-Use place value to compare 
+represents in the place to its right.</td>
+      <td>Use place value to compare 
 numbers that are multiples of 
 10 and ones versus tens 
-place.
-L: Identify multiples of 10: 10, 
+place.</td>
+      <td>L: Identify multiples of 10: 10, 
 20, 30, 40. 
 M: Identify the relation between 
 the place values for the double-
 digit numbers 11, 22, 33, 44. 
 H: Identify which number is in 
-the tens' place and ones' place.
-### M04NBT1.2
-M04NBT1.2
-4.NBT.A.2
-Read and write multi-digit whole 
+the tens' place and ones' place.</td>
+    </tr>
+    <tr>
+      <td>M04NBT1.2</td>
+      <td>4.NBT.A.2</td>
+      <td>Read and write multi-digit whole 
 numbers using base-ten numerals, 
 number names, and expanded 
 form. Use understandings of place 
 value within these forms to 
 compare two multi-digit numbers 
-using >, =, and < symbols.
-Recognize and compare 
+using >, =, and < symbols.</td>
+      <td>Recognize and compare 
 whole numbers using digit 
 values, base-ten 
 representations, and in 
-authentic contexts. 
-L: Identify which of two whole 
+authentic contexts.</td>
+      <td>L: Identify which of two whole 
 numbers (under 40) is greater by 
 comparing digits.
 M: Match a number (under 60) 
@@ -809,91 +782,89 @@ expanded form.
 H: Use number comparison 
 (greater than, less than, equal to) 
 to solve a simple word problem 
-with numbers up to 60.
-
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+with numbers up to 60.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04NBT1.3
-M04NBT1.3
-4.NBT.A.3
-Use place value understanding to 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M04NBT1.3</td>
+      <td>4.NBT.A.3</td>
+      <td>Use place value understanding to 
 round multi-digit whole numbers 
-to any place.
-Identify whether numbers are 
+to any place.</td>
+      <td>Identify whether numbers are 
 closer to base ten numeral 
 above or below the given 
-number.
-L: Numerals between 1 and 10. 
+number.</td>
+      <td>L: Numerals between 1 and 10. 
 M: Numerals between 11 and 
 30. 
-H: Numerals between 31 and 40.
-### M04NBT2.4
-M04NBT2.4
-4.NBT.B.4
-Fluently add and subtract multi-
+H: Numerals between 31 and 40.</td>
+    </tr>
+    <tr>
+      <td>M04NBT2.4</td>
+      <td>4.NBT.B.4</td>
+      <td>Fluently add and subtract multi-
 digit whole numbers using 
 accurate, efficient, and flexible 
 strategies and algorithms based on 
 place value and properties of 
-operations.
-Add and subtract numbers up 
-to 40.
-L: Add numbers up to 20. 
+operations.</td>
+      <td>Add and subtract numbers up 
+to 40.</td>
+      <td>L: Add numbers up to 20. 
 M: Add numbers up to 40. 
 subtract numbers up to 10. 
 H: Subtract numbers between 11 
-and 40.
-### M04NBT2.5
-M04NBT2.5
-4.NBT.B.5
-Use representations and strategies 
+and 40.</td>
+    </tr>
+    <tr>
+      <td>M04NBT2.5</td>
+      <td>4.NBT.B.5</td>
+      <td>Use representations and strategies 
 to multiply a whole number of up 
 to four digits by a one-digit 
 number, and a two-digit number 
 by a two-digit number using 
 strategies based on place value and 
-the properties of operations.
-Multiply numbers up to 10; 
+the properties of operations.</td>
+      <td>Multiply numbers up to 10; 
 match area models to the 
-correct number up to 40.
-L: Match area models (1-10). 
+correct number up to 40.</td>
+      <td>L: Match area models (1-10). 
 M: Multiply numbers (1-5), 
 match area models (11-30). 
 H: Multiply numbers (6-10), 
-match area models (31-40).
-
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+match area models (31-40).</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04NBT2.6
-M04NBT2.6
-4.NBT.B.6
-Use representations and strategies 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M04NBT2.6</td>
+      <td>4.NBT.B.6</td>
+      <td>Use representations and strategies 
 to find whole-number quotients 
 and remainders with up to four-
 digit dividends and one-digit 
@@ -901,84 +872,82 @@ divisors using strategies based on
 place value, the properties of 
 operations, and/or the relationship 
 between multiplication and 
-division.
-Use area models to solve 
+division.</td>
+      <td>Use area models to solve 
 division problems up to 10; 
-divide numbers up to 10.
-L: Use area model to solve 
+divide numbers up to 10.</td>
+      <td>L: Use area model to solve 
 division problems up to 5. 
 M: Use area models to solve 
 division problems up to 10. 
 H: Solve division problems up to 
-10.
-### M04NOF1.1
-M04NOF1.1
-4.NF.A.1
-Use visual fraction representations 
+10.</td>
+    </tr>
+    <tr>
+      <td>M04NOF1.1</td>
+      <td>4.NF.A.1</td>
+      <td>Use visual fraction representations 
 to recognize, generate, and explain 
 relationships between equivalent 
-fractions.
-Divide numbers in 1/2 or 1/4 
+fractions.</td>
+      <td>Divide numbers in 1/2 or 1/4 
 with numbers 1-10 using 
-graphic supports.
-L: Divide objects in 1/2 with 
+graphic supports.</td>
+      <td>L: Divide objects in 1/2 with 
 numbers 1, 2 and 4. 
 M: Divide objects in 1/2 with 
 numbers 6, 8, and 10. 
 H: Divide numbers in 1/4 with 1, 
-4, and 8.
-### M04NOF1.2
-M04NOF1.2
-4.NF.A.2
-Compare two fractions with 
+4, and 8.</td>
+    </tr>
+    <tr>
+      <td>M04NOF1.2</td>
+      <td>4.NF.A.2</td>
+      <td>Compare two fractions with 
 different numerators and/or 
 different denominators, record the 
 results with the symbols >, =, or 
-<, and justify the conclusions.
-<div class="table-container">
-| Make comparisons using | <, |
-</div>
+<, and justify the conclusions.</td>
+      <td>Make comparisons using    <, 
 =, and > using numerals up to 
-40 and 1/2 or 1/4.
-L: Make comparisons between 1-
+40 and 1/2 or 1/4.</td>
+      <td>L: Make comparisons between 1-
 10 using smaller, larger, or same. 
 M: Compare numbers 20 to 30 
 using <, =, and >. 
 H: Compare numbers 31-40 and 
-1/2 or 1/4 using < , =, and >.
-
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+1/2 or 1/4 using < , =, and >.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04NOF2.
-M04NOF2.3A
-4.NF.B.3
-Understand a fraction (a/b) as the 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M04NOF2.3A</td>
+      <td>4.NF.B.3</td>
+      <td>Understand a fraction (a/b) as the 
 sum (a) of fractions of the same 
 denominator (1/b). Solve 
 problems in authentic contexts 
 involving addition and subtraction 
 of fractions referring to the same 
 whole and having like 
-denominators.
-Identify, compare, and add or 
+denominators.</td>
+      <td>Identify, compare, and add or 
 subtract fractions with like 
 denominators using objects, 
 number lines, and word 
-problems.
-L: Match equivalent groups of 1-
+problems.</td>
+      <td>L: Match equivalent groups of 1-
 5 objects. Identify mixed 
 numbers between 1-10 on a 
 number line (½). Solve word 
@@ -993,108 +962,106 @@ problems involving addition and
 subtraction of halves (2, 4, 6, 8, 
 10). 
 H: Match equivalent groups of 
-11-20 objects. Identify mixed 
-numbers between 21-40 on a 
-number line (½ and ¼). Solve 
-word problems involving 
-addition and subtraction of 
-quarters (4, 8, 12, 16, 20).
-
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+11-20 objects. Identify mixed
+numbers between 21-40 on a
+number line (½ and ¼). Solve
+word problems involving
+addition and subtraction of
+quarters (4, 8, 12, 16, 20).</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04NOF2.
-M04NOF2.4A
-4.NF.B.4
-Apply and extend previous 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M04NOF2.4A</td>
+      <td>4.NF.B.4</td>
+      <td>Apply and extend previous 
 understandings of multiplication to 
 multiply a fraction by a whole 
 number. Represent and solve 
 problems in authentic contexts 
 involving multiplication of a 
-fraction by a whole number.
-Use a number line to add 
-wholes, halves, and quarters
-L: Use a number line to add 
+fraction by a whole number.</td>
+      <td>Use a number line to add 
+wholes, halves, and quarters</td>
+      <td>L: Use a number line to add 
 wholes (1-10). 
 M: Use a number line to add 
 wholes (11-20) and halves (1-
 10). 
 H: Use a number line to add 
-halves and quarters (11-20).
-### M04NOF3.6
-M04NOF3.6
-4.NF.C.6
-Use and interpret decimal notation 
+halves and quarters (11-20).</td>
+    </tr>
+    <tr>
+      <td>M04NOF3.6</td>
+      <td>4.NF.C.6</td>
+      <td>Use and interpret decimal notation 
 for fractions with denominators 10 
-or 100.
-Identify whole numbers 
+or 100.</td>
+      <td>Identify whole numbers 
 (written 1.0, etc.) and match 
 decimals .5 and .25 with 1/2, 
-1/4.
-L: Identify whole numbers 
+1/4.</td>
+      <td>L: Identify whole numbers 
 (1-20). 
 M: Identify whole numbers 
 (21-40). 
 H: Match decimals with fractions 
-(.5 with 1/2 and .25 with 1/4).
-### M04OAT1.1
-M04OAT1.1
-4.OA.A.1 
-Interpret a multiplication equation 
+(.5 with 1/2 and .25 with 1/4).</td>
+    </tr>
+    <tr>
+      <td>M04OAT1.1</td>
+      <td>4.OA.A.1</td>
+      <td>Interpret a multiplication equation 
 as comparing quantities. Represent 
 verbal statements of multiplicative 
-comparisons as equations.
-Identify equivalent 
-multiplication equations.
-L: Multiplication equations 
+comparisons as equations.</td>
+      <td>Identify equivalent 
+multiplication equations.</td>
+      <td>L: Multiplication equations 
 involving 1-3. 
 M: Multiplication equations 
 involving 4-7. 
 H: Multiplication equations 
-involving 8-10.
-
-Math Grade 4
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+involving 8-10.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M04OAT1.2
-M04OAT1.2
-4.OA.A.2, 
-4.OA.A.3
-Multiply or divide to solve 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M04OAT1.2</td>
+      <td>4.OA.A.2, 
+4.OA.A.3</td>
+      <td>Multiply or divide to solve 
 problems in authentic contexts 
 involving multiplicative 
 comparison, distinguishing 
 multiplicative comparison from 
-additive comparison.
-Solve one-step word 
+additive comparison.</td>
+      <td>Solve one-step word 
 problems using addition or 
-multiplication.
-L: Word problem using addition 
+multiplication.</td>
+      <td>L: Word problem using addition 
 (1-20) or multiplication with 
 solutions (1-10). 
 M: Word problem using 
@@ -1102,135 +1069,142 @@ multiplication with solutions (11-
 20). 
 H: Word problem using 
 multiplication with solutions (21-
-40).
-### M04OAT2.4
-M04OAT2.4
-4.OA.B.4
-Find all factor pairs for a whole 
+40).</td>
+    </tr>
+    <tr>
+      <td>M04OAT2.4</td>
+      <td>4.OA.B.4</td>
+      <td>Find all factor pairs for a whole 
 number in the range 1-100. 
 Determine whether a given whole 
 number in the range of 1-100 is a
 multiple of a given one-digit 
 number, and whether it is prime or 
-composite
-Determine whether a number 
+composite</td>
+      <td>Determine whether a number 
 between 1-40 is divisible by 
-2, 3, 5, or 10.
-L: Identify numbers up to 10 that 
+2, 3, 5, or 10.</td>
+      <td>L: Identify numbers up to 10 that 
 are divisible by 2. 
 M: Identify numbers up to 30 
 that are divisible by 3. 
 H: Identify numbers up to 40 
-that are divisible by 5 or 10.
-### M04OAT3.5
-M04OAT3.5
-4.OA.C.5
-Analyze a number, visual, or 
+that are divisible by 5 or 10.</td>
+    </tr>
+    <tr>
+      <td>M04OAT3.5</td>
+      <td>4.OA.C.5</td>
+      <td>Analyze a number, visual, or 
 contextual pattern that follows a 
-given rule.
-Skip count by 2s, 3s, 5s, and 
-10s.
-L: Recognize skip counting by 
+given rule.</td>
+      <td>Skip count by 2s, 3s, 5s, and 
+10s.</td>
+      <td>L: Recognize skip counting by 
 2s within 2-20. 
 M: Skip count by 2s within 2-
 20. 
 H: Skip count by 3s, 5s, and 10s 
-within 2-40.
+within 2-40.</td>
+    </tr>
+  </tbody>
+</table>
+```
 
-Math Grade 4
-4.GM.C.8
-4.NF.C.5
-4.GM.C.9
-4.NF.C.7
-Standards not Essentialized: 
-Please refer to Oregon’s published content standards for the full description and context of these codes.
+### Math Grade 5
 
-</details>
-<details open>
-<summary><strong>Grade 5</strong></summary>
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+```{=html}
+### Math Grade 5
+<table class="standards-table">
+  <thead>
+    <tr>
+      <th scope="col">ORExt Standard Code</th>
+      <th scope="col">Equivalent OR Standard Code</th>
+      <th scope="col">2021 Oregon Mathematics Standards</th>
+      <th scope="col">Oregon Alternate Academic Achievement Standard (Essentialized Standard)</th>
+      <th scope="col">Low (L), Medium (M), High (H) Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05GEO1.2
-M05GEO1.2
-5.GM.A.2, 
-5.GM.A.1
-Represent authentic contexts and 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M05GEO1.2</td>
+      <td>5.GM.A.2,
+5.GM.A.1</td>
+      <td>Represent authentic contexts and 
 mathematical problems by graphing 
 points in the first quadrant of the 
 coordinate plane. Interpret the 
 meaning of the coordinate values 
 based on the context of a given 
-situation.
-Identify points graphed in the 
+situation.</td>
+      <td>Identify points graphed in the 
 first quadrant of the coordinate 
-plane.
-L: Identify value of Y when 
+plane.</td>
+      <td>L: Identify value of Y when 
 provided with X and verbal 
 directions to X. 
 M: Identify location of a point 
 when provided a verbal direction 
 to its location. 
 H: Identify a point given its 
-coordinates.
-### M05GEO2.4
-M05GEO2.4
-5.GM.B.3, 
-5.GM.D.6
-Classify two-dimensional figures
+coordinates.</td>
+    </tr>
+    <tr>
+      <td>M05GEO2.4</td>
+      <td>5.GM.B.3,
+5.GM.D.6</td>
+      <td>Classify two-dimensional figures
 within a hierarchy based on their
 geometrical properties, and explain 
 the relationship across and within 
 different categories of these 
-figures.
-Match a description with a two 
-dimensional figure.
-L: Match a description of 
+figures.</td>
+      <td>Match a description with a two 
+dimensional figure.</td>
+      <td>L: Match a description of 
 triangle with a triangle figure. 
 M: Match a description of a 
 square/circle with a square/circle 
 figure. 
 H: Match a description of a 
-rectangle with a rectangle figure.
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+rectangle with a rectangle figure.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05MED1.1
-M05MED1.1
-5.GM.C.4
-Convert between different-sized 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M05MED1.1</td>
+      <td>5.GM.C.4</td>
+      <td>Convert between different-sized 
 standard measurement units within 
 a given measurement system. Use 
 these conversions in solving multi-
-step problems in authentic contexts.
-Convert inches into feet given 
-a verbal and visual model.
-L: Convert inches into feet using 
+step problems in authentic contexts.</td>
+      <td>Convert inches into feet given 
+a verbal and visual model.</td>
+      <td>L: Convert inches into feet using 
 1/2 increments (6 inches, 12 
 inches, 18 inches). 
 M: Convert inches into feet 
@@ -1240,114 +1214,116 @@ inches, 18 inches).
 H: Convert inches into feet using 
 1/3 and .5 increments (4 inches, 
 6 inches, 8 inches, 12 inches, 16 
-inches, 18 inches, 20 inches).
-### M05MED2.2
-M05MED2.2
-5.DR.B.2
-Analyze graphical representations 
+inches, 18 inches, 20 inches).</td>
+    </tr>
+    <tr>
+      <td>M05MED2.2</td>
+      <td>5.DR.B.2</td>
+      <td>Analyze graphical representations 
 and describe the distribution of the
 numerical data through line plots or 
 categorical data through bar graphs. 
 Interpret information presented to 
-answer investigative questions.
-Use a line plot to solve 
+answer investigative questions.</td>
+      <td>Use a line plot to solve 
 addition/subtraction problems 
 with whole numbers 1-60, 1/2, 
-1/4, 1/3, and .5.
-L: Use a line plot to determine 
+1/4, 1/3, and .5.</td>
+      <td>L: Use a line plot to determine 
 frequencies at a given value 
 (0-10). 
 M: Use a line plot to 
 add/subtract (11-30). 
 H: Use a line plot to add/subtract 
-(31-60, 1/2, 1/4, 1/3, and .5).
-### M05MED3.4
-M05MED3.4
-5.GM.D.5, 
-5.GM.D.6
-Measure the volume of a 
+(31-60, 1/2, 1/4, 1/3, and .5).</td>
+    </tr>
+    <tr>
+      <td>M05MED3.4</td>
+      <td>5.GM.D.5,
+5.GM.D.6</td>
+      <td>Measure the volume of a 
 rectangular prism by counting unit 
 cubes using standard and 
-nonstandard units.
-Solve real world addition 
+nonstandard units.</td>
+      <td>Solve real world addition 
 problems using unit cubic 
-inches.
-L: Solve problems involving 
+inches.</td>
+      <td>L: Solve problems involving 
 volumes 1-10. 
 M: Solve problems involving 
 volumes 11-20. 
 H: Solve problems involving 
-volumes 21-30.
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+volumes 21-30.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05MED3.
-M05MED3.5B
-5.GM.D.7
-Relate volume of rectangular 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M05MED3.5B</td>
+      <td>5.GM.D.7</td>
+      <td>Relate volume of rectangular 
 prisms to the operations of 
 multiplication and addition. Solve 
 problems in authentic contexts 
 involving volume using a variety of 
-strategies.
-Solve V = b x h volume 
+strategies.</td>
+      <td>Solve V = b x h volume 
 problems when provided a 
 model that includes the area 
-measure.
-L: Solve problems involving 
+measure.</td>
+      <td>L: Solve problems involving 
 volumes 0-10. 
 M: Solve problems involving 
 volumes 11-20. 
 H: Solve problems involving 
-volumes 21-30.
-### M05NBT1.1
-M05NBT1.1
-5.NBT.A.1
-Recognize that in a multi-digit 
+volumes 21-30.</td>
+    </tr>
+    <tr>
+      <td>M05NBT1.1</td>
+      <td>5.NBT.A.1</td>
+      <td>Recognize that in a multi-digit 
 number, a digit in one place 
 represents 10 times as much as it 
 represents in the place to its right 
 and 1/10 of what it represents in 
-the place to its left.
-Use place value to compare 
+the place to its left.</td>
+      <td>Use place value to compare 
 numbers that are multiples of 
 10, ones versus tens place, and 
-.5.
-L: Identify multiples of 10 (10, 
+.5.</td>
+      <td>L: Identify multiples of 10 (10, 
 20, 30, 40, 50, 60). 
 M: Identify the relation between 
 the place values for the double-
 digit numbers (11, 22, 33, 44, 
 55). 
 H: Identify which number is in 
-the tens place and ones place.
-### M05NBT1.2
-M05NBT1.2
-5.NBT.A.2
-Use whole number exponents to 
+the tens place and ones place.</td>
+    </tr>
+    <tr>
+      <td>M05NBT1.2</td>
+      <td>5.NBT.A.2</td>
+      <td>Use whole number exponents to 
 denote powers of 10 and explain 
 the patterns in placement of digits 
 that occur when multiplying and/or 
 dividing whole numbers and 
-decimals by powers of 10.
-Recognize that each place 
+decimals by powers of 10.</td>
+      <td>Recognize that each place 
 value to the left is 10 times 
 greater and each to the right is 
-1/10 as much.
-L: Identify which place is greater 
+1/10 as much.</td>
+      <td>L: Identify which place is greater 
 between the ones and tens place 
 in a 2-digit number. 
 M: Identify that the tens place is 
@@ -1357,34 +1333,32 @@ place.
 H: Compare place values across 
 a number with digits in the tens, 
 ones, and tenths places using a 
-visual model or number line.
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+visual model or number line.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05NBT1.
-M05NBT1.3a
-5.NBT.A.3
-Read, write, and compare decimals 
-to thousandths.
-Identify whole numbers 41-60 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M05NBT1.3a</td>
+      <td>5.NBT.A.3</td>
+      <td>Read, write, and compare decimals 
+to thousandths.</td>
+      <td>Identify whole numbers 41-60 
 and decimals (1.5, 2.5, 3.5, 
 4.5, 5.5) and compare their 
 magnitudes using <, =, and > 
-symbols.
-L: Identify which is greater: a 
+symbols.</td>
+      <td>L: Identify which is greater: a 
 whole number or a .5 decimal 
 (e.g., 3 vs 3.5). 
 M: Compare two decimals (.25, 
@@ -1394,72 +1368,72 @@ H: Use comparison symbols to
 compare a whole number and a 
 decimal in a real-world context 
 (e.g., Which costs more: $2.50 
-or $2?).
-### M05NBT1.4
-M05NBT1.4
-5.NBT.A.4
-Use place value understanding to 
-round decimals to any place.
-Identify the location of .5 
+or $2?).</td>
+    </tr>
+    <tr>
+      <td>M05NBT1.4</td>
+      <td>5.NBT.A.4</td>
+      <td>Use place value understanding to 
+round decimals to any place.</td>
+      <td>Identify the location of .5 
 decimals between two whole 
 numbers on a number line; 
 round .5 decimals up to the 
-nearest whole number.
-L: Identify location of 1.5, 2.5, 
+nearest whole number.</td>
+      <td>L: Identify location of 1.5, 2.5, 
 3.5. 
 M: Identify location of 4.5, 5.5, 
 6.5, 7.5. 
 H: Identify location of 8.5 and 
 9.5. Round all .5 decimals 1.5 to 
 9.5 up to the nearest whole 
-number.
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+number.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05NBT2.5
-M05NBT2.5
-5.NBT.B.5
-Fluently multiply multi-digit whole 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M05NBT2.5</td>
+      <td>5.NBT.B.5</td>
+      <td>Fluently multiply multi-digit whole 
 numbers using accurate, efficient, 
 and flexible strategies and 
 algorithms based on place value 
-and properties of operations.
-Multiply whole numbers 
+and properties of operations.</td>
+      <td>Multiply whole numbers 
 (under 20) using place value 
-strategies.
-L: Multiply single-digit numbers 
+strategies.</td>
+      <td>L: Multiply single-digit numbers 
 using visual models (e.g., 3 × 2). 
 M: Multiply two-digit by one-
 digit numbers using area models 
 (e.g., 12 × 3). 
 H: Multiply two-digit numbers 
 using place value strategies (e.g., 
-21 × 12).
-### M05NBT2.6
-M05NBT2.6
-5.NBT.B.6
-Use a variety of representations 
+21 × 12).</td>
+    </tr>
+    <tr>
+      <td>M05NBT2.6</td>
+      <td>5.NBT.B.6</td>
+      <td>Use a variety of representations 
 and strategies to find whole-
 number quotients of whole 
 numbers with up to four-digit 
-dividends and two-digit divisors.
-Identify the quotient of a 
+dividends and two-digit divisors.</td>
+      <td>Identify the quotient of a 
 whole number divided by 2, 5, 
-or 10 using visual models.
-L: Identify the quotient of a 
+or 10 using visual models.</td>
+      <td>L: Identify the quotient of a 
 whole number (up to 10) divided 
 by 2 using grouped visual 
 models. 
@@ -1471,53 +1445,52 @@ H: Identify the quotient of a
 whole number (up to 30) divided 
 by 2, 5, or 10 using contextual 
 story problems or unlabeled 
-diagrams.
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+diagrams.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05NBT2.7
-M05NBT2.7
-5.NBT.B.7
-Use a variety of representations 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M05NBT2.7</td>
+      <td>5.NBT.B.7</td>
+      <td>Use a variety of representations 
 and strategies to add, subtract, 
 multiply, and divide decimals to 
 hundredths. Relate the strategy to a 
 written method and explain the 
-reasoning used.
-Use models to solve problems
+reasoning used.</td>
+      <td>Use models to solve problems
 involving addition and 
 subtraction of whole numbers 
-1-30; add decimals ending in 
-.5.
-L: Add numbers 0-10. 
+1-30; add decimals ending in
+.5.</td>
+      <td>L: Add numbers 0-10. 
 M: Add and subtract numbers 
-11-20. 
-H: Add and subtract numbers 
-21-30 and even multiples of .5.
-### M05NOF1.1
-M05NOF1.1
-5.NF.A.1
-Add and subtract fractions with 
+11-20.
+H: Add and subtract numbers
+21-30 and even multiples of .5.</td>
+    </tr>
+    <tr>
+      <td>M05NOF1.1</td>
+      <td>5.NF.A.1</td>
+      <td>Add and subtract fractions with 
 unlike denominators, including 
 common fractions larger than one 
-and mixed numbers.
-Add and subtract fractions ½, 
+and mixed numbers.</td>
+      <td>Add and subtract fractions ½, 
 ¼, and ⅓ using visual or 
-graphic models.
-L: Add or subtract ½ using 
+graphic models.</td>
+      <td>L: Add or subtract ½ using 
 visual supports 
 (e.g., ½ + ½ or 1 − ½). 
 M: Add or subtract ¼ or ⅓ 
@@ -1526,303 +1499,311 @@ using graphic models
 H: Add or subtract combinations 
 of ½, ¼, and ⅓ using labeled 
 visuals with unlike 
-denominators.
-### M05NOF1.2
-M05NOF1.2
-5.NF.A.2, 
-5.NF.B.3
-Interpret a fraction as division of 
+denominators.</td>
+    </tr>
+    <tr>
+      <td>M05NOF1.2</td>
+      <td>5.NF.A.2,
+5.NF.B.3</td>
+      <td>Interpret a fraction as division of 
 the numerator by the denominator 
 (a/b = a ÷ b). Solve problems in 
 authentic contexts involving 
 division of whole numbers that 
 result in answers that are common 
-fractions or mixed numbers.
-Divide a small set of objects 
+fractions or mixed numbers.</td>
+      <td>Divide a small set of objects 
 into equal parts and express 
-the result as a fraction.
-L: Show 4 cookies shared by 2 
+the result as a fraction.</td>
+      <td>L: Show 4 cookies shared by 2 
 people = 2 cookies each. 
 M: Show 6 apples shared by 3 
 people = 2 apples each, written 
 as 6 ÷ 3 = 2. 
 H: Show 5 apples shared by 2 
 people = 2 ½ apples each, 
-written as 5 ÷ 2 = 2½.
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+written as 5 ÷ 2 = 2½.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05NOF2.
-M05NOF2.4a
-5.NF.B.4
-Apply and extend previous 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M05NOF2.4a</td>
+      <td>5.NF.B.4</td>
+      <td>Apply and extend previous 
 understanding and strategies of 
 multiplication to multiply a fraction 
 or whole number by a fraction. 
 Multiply fractional side lengths to 
 find areas of rectangles, and 
 represent fractional products as 
-rectangular areas.
-Identify representation that 
+rectangular areas.</td>
+      <td>Identify representation that 
 matches a verbal description 
 involving the product of whole 
 numbers and whole numbers 
-with 1/2, 1/4, 1/3, and .5.
-<div class="table-container">
-| L: Identify products | of whole |
-</div>
+with 1/2, 1/4, 1/3, and .5.</td>
+      <td>L: Identify products  of whole 
 numbers with solutions 0- 10. 
 M: Identify products of whole 
 numbers with solutions 11-30. 
 H: Identify products of whole 
 numbers, and whole numbers 
 with fractions (1/2, 1/3, 1/4), and 
-.5 with solutions 31-60.
-### M05NOF2.
-M05NOF2.4b
-5.NF.B.4
-Apply and extend previous 
+.5 with solutions 31-60.</td>
+    </tr>
+    <tr>
+      <td>M05NOF2.4b</td>
+      <td>5.NF.B.4</td>
+      <td>Apply and extend previous 
 understanding and strategies of 
 multiplication to multiply a fraction 
 or whole number by a fraction. 
 Multiply fractional side lengths to 
 find areas of rectangles, and 
 represent fractional products as 
-rectangular areas.
-Find the area of rectangles 
+rectangular areas.</td>
+      <td>Find the area of rectangles 
 using models and simple 
-multiplication.
-L: Use unit squares to count area 
+multiplication.</td>
+      <td>L: Use unit squares to count area 
 (e.g., 3 rows of 2 = 6). 
 M: Multiply side lengths of 
 rectangles with whole numbers 
 (e.g., 4 × 5). 
 H: Multiply side lengths with 
 simple fractions 
-(e.g., 1/2 × 6 = 3).
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+(e.g., 1/2 × 6 = 3).</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05NOF2.
-M05NOF2.5B
-5.NF.B.5
-Apply and extend previous 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M05NOF2.5B</td>
+      <td>5.NF.B.5</td>
+      <td>Apply and extend previous 
 understandings of multiplication 
 and division to represent and 
 calculate multiplication and division 
 of fractions. Interpret multiplication 
 as scaling (resizing) by comparing 
-the size of products of two factors.
-Recognize that multiplication 
+the size of products of two factors.</td>
+      <td>Recognize that multiplication 
 by numbers greater than 1 
 increases magnitude while 
 multiplying by a number less 
-than one decreases magnitude.
-L: Identify scaling when 
+than one decreases magnitude.</td>
+      <td>L: Identify scaling when 
 provided with a multiplication 
 problem with factors 6-10. 
 M: Identify scaling when 
 provided with a multiplication 
 problem involving factors 
--2 to -5. 
-H: Identify scaling when 
-provided with a multiplication 
-problem involving factors 
-1/2, 1/4, 1/3, or .5.
-### M05NOF2.
-M05NOF2.7a
-5.NF.B.6, 
-5.NF.B.7
-Apply and extend previous 
+-2 to -5.
+H: Identify scaling when
+provided with a multiplication
+problem involving factors
+1/2, 1/4, 1/3, or .5.</td>
+    </tr>
+    <tr>
+      <td>M05NOF2.7a</td>
+      <td>5.NF.B.6,
+5.NF.B.7</td>
+      <td>Apply and extend previous 
 understandings of division to 
 divide unit fractions by whole 
 numbers and whole numbers by 
 unit fractions, including solving 
-problems in authentic contexts.
-Use verbal and graphic models 
+problems in authentic contexts.</td>
+      <td>Use verbal and graphic models 
 to solve problems involving 
 addition and subtraction of 
-<div class="table-container">
-| whole numbers 1-30, |
-</div>
+whole numbers 1-30,  
 fractions (1/2, 1/4, 1/3), and 
-decimals ending in .5.
-L: Add numbers 0-10. 
+decimals ending in .5.</td>
+      <td>L: Add numbers 0-10. 
 M: Add and subtract numbers 
-11-20, 1/2, and 1/4. 
-H: Add and subtract numbers 
-21-30, multiples of .5.
-### M05OAT1.1
-M05OAT1.1
-5.OA.A.1
-Write and evaluate numerical
+11-20, 1/2, and 1/4.
+H: Add and subtract numbers
+21-30, multiples of .5.</td>
+    </tr>
+    <tr>
+      <td>M05OAT1.1</td>
+      <td>5.OA.A.1</td>
+      <td>Write and evaluate numerical
 expressions that include 
-parentheses.
-Solve expressions that use
+parentheses.</td>
+      <td>Solve expressions that use
 parentheses given a 
 verbal/visual
-model.
-L: Solve expressions involving 
+model.</td>
+      <td>L: Solve expressions involving 
 add/subtract of 0-10. 
 M: Solve expressions involving 
 add/subtract of 11-20. 
 H: Solve expressions involving 
-add/subtract of 41-60.
-
-Math Grade 5
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+add/subtract of 41-60.</td>
+    </tr>
+    <tr>
+      <td>ORExt Standard 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M05OAT1.2
-M05OAT1.2
-5.OA.A.2
-Write expressions that record 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M05OAT1.2</td>
+      <td>5.OA.A.2</td>
+      <td>Write expressions that record 
 calculations with numbers, and 
 interpret numerical expressions 
-without evaluating them.
-Identify numerical expressions 
+without evaluating them.</td>
+      <td>Identify numerical expressions 
 using whole numbers 1-60 
 with up to three terms that 
-match a verbal description.
-L: Match one-operation 
+match a verbal description.</td>
+      <td>L: Match one-operation 
 numerical expressions using 
 addition and subtraction of 0-10. 
 M: Match two-operation 
 numerical expressions using 
 addition and subtraction of 
-11-20. 
-H: Match two-operation 
-numerical expressions using 
-41-60.
-### M05OAT2.3
-M05OAT2.3
-5.OA.B.3
-Generate two numerical patterns 
+11-20.
+H: Match two-operation
+numerical expressions using
+41-60.</td>
+    </tr>
+    <tr>
+      <td>M05OAT2.3</td>
+      <td>5.OA.B.3</td>
+      <td>Generate two numerical patterns 
 using two given rules. Identify and 
 analyze relationships between 
 corresponding terms. Form ordered 
 pairs consisting of corresponding 
 terms from the two patterns and 
-graph them on a coordinate plane.
-Identify missing numeral in a 
-pattern when given the rule.
-L: Identify missing numeral in 
-+1 patterns (1-10). 
-M: Identify missing numeral in 
-+2, +3, +4, +5, and +10 patterns 
-(2-40). 
-H: Identify missing numeral in 
-+6, +7, +8, +9 patterns (6-60).
-5.NF.B.5
-Standards not Essentialized: 
-Please refer to Oregon’s published content standards for the full description and context of these codes.
+graph them on a coordinate plane.</td>
+      <td>Identify missing numeral in a 
+pattern when given the rule.</td>
+      <td>L: Identify missing numeral in 
++1 patterns (1-10).
+M: Identify missing numeral in
++2, +3, +4, +5, and +10 patterns
+(2-40).
+H: Identify missing numeral in
++6, +7, +8, +9 patterns (6-60).</td>
+    </tr>
+  </tbody>
+</table>
+```
 
-</details>
-<details open>
-<summary><strong>Grade 6</strong></summary>
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+### Math Grade 6
+
+```{=html}
+### Math Grade 6
+<table class="standards-table">
+  <thead>
+    <tr>
+      <th scope="col">ORExt Standard Code</th>
+      <th scope="col">Equivalent OR Standard Code</th>
+      <th scope="col">2021 Oregon Mathematics Standards</th>
+      <th scope="col">Oregon Alternate Academic Achievement Standard (Essentialized Standard)</th>
+      <th scope="col">Low (L), Medium (M), High (H) Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06EXE1.1
-M06EXE1.1
-6.AEE.A.1
-Write and evaluate numerical 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06EXE1.1</td>
+      <td>6.AEE.A.1</td>
+      <td>Write and evaluate numerical 
 expressions involving whole-
-number bases and exponents.
-Identify expressions that 
+number bases and exponents.</td>
+      <td>Identify expressions that 
 match a verbal and/or 
-graphic model.
-L: Identify expressions that involve one 
+graphic model.</td>
+      <td>L: Identify expressions that involve one 
 term. 
 M: Identify expressions involving two 
 terms. 
 H: Identify expressions involving three 
-terms.
-### M06EXE1.3
-M06EXE1.3
-6.AEE.A.3
-Apply the properties of 
+terms.</td>
+    </tr>
+    <tr>
+      <td>M06EXE1.3</td>
+      <td>6.AEE.A.3</td>
+      <td>Apply the properties of 
 operations to generate equivalent 
 expressions and to determine 
 when two expressions are 
-equivalent.
-Identify equivalent 
+equivalent.</td>
+      <td>Identify equivalent 
 expressions using one 
-variable.
-L: Identify expressions involving addition 
+variable.</td>
+      <td>L: Identify expressions involving addition 
 with single variable solutions 1-10. 
 M: Identify expressions involving 
 addition/subtraction with two term 
 expression solutions involving 1-20. 
 H: Identify expressions involving 
 addition/subtraction with 2-3 term 
-expression solutions 21-40.
-### M06EXE2.5
-M06EXE2.5
-6.AEE.B.4
-Understand solving an equation 
+expression solutions 21-40.</td>
+    </tr>
+    <tr>
+      <td>M06EXE2.5</td>
+      <td>6.AEE.B.4</td>
+      <td>Understand solving an equation 
 or inequality as a process of 
 answering which values from a 
 specified set, if any, make the 
 equation or inequality true. Use 
 substitution to determine which 
 number(s) in a given set make an 
-equation or inequality true.
-Identify set that is a 
+equation or inequality true.</td>
+      <td>Identify set that is a 
 possible solution for a 
-given equation/inequality.
-L: Equations involving addition of one 
+given equation/inequality.</td>
+      <td>L: Equations involving addition of one 
 variable (e.g., "x") with solutions in 1-10 
 range. 
 M: Equations involving add/subtract of 1-
@@ -1831,83 +1812,83 @@ solutions in 11-20 range.
 H: Equations/inequalities involving 
 add/subtract of 1-3 variables (e.g., "x", 
 "y", "z") with solutions in 1-10 range for 
-inequalities or 21-30 range for equations.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+inequalities or 21-30 range for equations.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06EXE2.7
-M06EXE2.7
-6.AEE.B.6
-Write and solve equations of the 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06EXE2.7</td>
+      <td>6.AEE.B.6</td>
+      <td>Write and solve equations of the 
 form x + p = q and px = q in 
 problems that arise from 
 authentic contexts for cases in 
 which p, q and x are all 
-nonnegative rational numbers.
-Identify solutions for 
+nonnegative rational numbers.</td>
+      <td>Identify solutions for 
 expressions or equations 
-with up to three variables.
-L: Identify solutions to expressions with 
+with up to three variables.</td>
+      <td>L: Identify solutions to expressions with 
 coefficient totals (1-10). 
 M: Identify solutions to 
 expressions/equations with coefficient 
 totals (11-20) with two variables. 
 H: Identify solutions to equations with 
-coefficient totals 1-20 with 3 variables.
-### M06EXE2.8
-M06EXE2.8
-6.AEE.B.7
-Write inequalities of the form x > 
+coefficient totals 1-20 with 3 variables.</td>
+    </tr>
+    <tr>
+      <td>M06EXE2.8</td>
+      <td>6.AEE.B.7</td>
+      <td>Write inequalities of the form x > 
 c and x < c to represent 
 constraints or conditions to solve 
 problems in authentic contexts. 
 Describe and graph on a number 
 line solutions of inequalities of 
-the form x > c and x < c.
-Identify which inequality 
+the form x > c and x < c.</td>
+      <td>Identify which inequality 
 matches a verbal 
 description or number line 
-representation.
-L: Identify singular inequalities using one 
+representation.</td>
+      <td>L: Identify singular inequalities using one 
 variable and 1-10. 
 M: Identify singular inequalities using 
-1-2 variables and 1-20. 
-H: Identify multiple inequalities using up 
-to 3 variables and 11-40 (e.g., 2 ≤ x ≤ 10 
-or separate inequalities such as x ≤ 7 and 
-y > 4).
-### M06EXE3.9
-M06EXE3.9
-6.AEE.C.8
-Use variables to represent and 
+1-2 variables and 1-20.
+H: Identify multiple inequalities using up
+to 3 variables and 11-40 (e.g., 2 ≤ x ≤ 10
+or separate inequalities such as x ≤ 7 and
+y > 4).</td>
+    </tr>
+    <tr>
+      <td>M06EXE3.9</td>
+      <td>6.AEE.C.8</td>
+      <td>Use variables to represent and 
 analyze two quantities to solve 
 problems in authentic contexts. 
 Including those that change in 
 relationship to one another; write 
 an equation to express one 
 quantity in terms of the other 
-quantity.
-Identify or use an equation 
+quantity.</td>
+      <td>Identify or use an equation 
 with one variable to 
 represent a real world 
 relationship between two 
-quantities.
-L: Identify a variable that stands for an 
+quantities.</td>
+      <td>L: Identify a variable that stands for an 
 unknown in a real-world situation (e.g., "x 
 = number of apples"). 
 M: Identify an equation with one variable 
@@ -1915,40 +1896,38 @@ that matches a simple pattern or real-world
 relationship (e.g., "y = x + 2"). 
 H: Use a given equation with one variable 
 (e.g., y = 2x) to solve a word problem 
-involving two quantities.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+involving two quantities.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06GEO1.1
-M06GEO1.1
-6.GM.A.1
-Find the area of triangles, 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06GEO1.1</td>
+      <td>6.GM.A.1</td>
+      <td>Find the area of triangles, 
 quadrilaterals, and other 
 polygons by composing into 
 rectangles or decomposing into 
 triangles and other shapes. Apply 
 these techniques to solve 
-problems in authentic contexts.
-Sum areas of squares, 
+problems in authentic contexts.</td>
+      <td>Sum areas of squares, 
 rectangles, and triangles to 
 determine the area of a total 
-figure in square units.
-L: Identify the total area of a figure 
+figure in square units.</td>
+      <td>L: Identify the total area of a figure 
 composed of unit squares 
 (1-10 square units). 
 M: Identify the total area of a figure 
@@ -1956,11 +1935,12 @@ composed of squares and rectangles
 (11-20 square units). 
 H: Identify the total area of figures 
 composed of rectangles and triangles 
-(21-40 square units).
-### M06GEO1.2
-M06GEO1.2
-6.GM.A.2
-Find the volume of a right 
+(21-40 square units).</td>
+    </tr>
+    <tr>
+      <td>M06GEO1.2</td>
+      <td>6.GM.A.2</td>
+      <td>Find the volume of a right 
 rectangular prism with fractional 
 edge lengths by filling it with 
 unit cubes of appropriate unit 
@@ -1969,196 +1949,195 @@ and apply to the formulas V = l
 w h and V = b h to find volumes 
 of right rectangular prisms with 
 fractional edge lengths to solve 
-problems in authentic contexts.
-Find the volume of a figure
+problems in authentic contexts.</td>
+      <td>Find the volume of a figure
 given verbal and visual 
 support (V= l x w x h or V
-= b x h).
-L: Solve problems involving volumes 
+= b x h).</td>
+      <td>L: Solve problems involving volumes 
 1-10. 
 M: Solve problems involving volumes 
 11-20. 
 H: Solve problems involving volumes 
-21-40.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+21-40.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06GEO1.3
-M06GEO1.3
-6.GM.A.3
-Draw polygons in the four 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06GEO1.3</td>
+      <td>6.GM.A.3</td>
+      <td>Draw polygons in the four 
 quadrant coordinate plane given 
 coordinates for the vertices and 
 find the length of a side. Apply 
 these techniques to solve 
-problems in authentic contexts.
-Identify location of a point 
+problems in authentic contexts.</td>
+      <td>Identify location of a point 
 on a geometric figure in 
 quadrant 1 of the coordinate 
-plane.
-L: Identify coordinates for a missing point 
+plane.</td>
+      <td>L: Identify coordinates for a missing point 
 on a triangle. 
 M: Identify coordinates for a missing 
 point on a square or rectangle. 
 H: Identify coordinates for a missing 
-point on a rhombus or pentagon.
-### M06GEO1.4
-M06GEO1.4
-6.GM.A.4
-Represent three-dimensional 
+point on a rhombus or pentagon.</td>
+    </tr>
+    <tr>
+      <td>M06GEO1.4</td>
+      <td>6.GM.A.4</td>
+      <td>Represent three-dimensional 
 figures using nets made up of 
 rectangles and triangles, and use 
 the nets to find the surface area 
 of these figures, including those 
-from authentic contexts.
-Match a 3D figure to the 
-corresponding net.
-L: Match a net to a cube 
+from authentic contexts.</td>
+      <td>Match a 3D figure to the 
+corresponding net.</td>
+      <td>L: Match a net to a cube 
 (1-10 side lengths). 
 M: Match a net to a rectangle 
 (12-20 side lengths). 
 H: Match a net to a triangular prism 
-(21-40 side lengths).
-### M06RPR1.1
-M06RPR1.1
-6.RP.A.1
-Understand the concept of a ratio 
+(21-40 side lengths).</td>
+    </tr>
+    <tr>
+      <td>M06RPR1.1</td>
+      <td>6.RP.A.1</td>
+      <td>Understand the concept of a ratio 
 in authentic contexts, and use 
 ratio language to describe a ratio 
 relationship between two 
-quantities.
-Identify which ratio 
+quantities.</td>
+      <td>Identify which ratio 
 matches a verbal 
-description.
-L: Match ratios (1-3):(1-3). 
+description.</td>
+      <td>L: Match ratios (1-3):(1-3). 
 M: Match ratios from (4-10):(4-10). 
-H: Match ratios (11-20):(11-20).
-### M06RPR1.2
-M06RPR1.2
-6.RP.A.2, 
-6.RP.A.3
-Understand the concept of a unit 
+H: Match ratios (11-20):(11-20).</td>
+    </tr>
+    <tr>
+      <td>M06RPR1.2</td>
+      <td>6.RP.A.2,
+6.RP.A.3</td>
+      <td>Understand the concept of a unit 
 rate in authentic contexts and use 
 rate language in the context of a 
-ratio relationship.
-Identify unit rate with 
-numbers 1-30 or -1 to -5.
-L: Identify unit rates (1-5). 
+ratio relationship.</td>
+      <td>Identify unit rate with 
+numbers 1-30 or -1 to -5.</td>
+      <td>L: Identify unit rates (1-5). 
 M: Identify unit rates (6-10). 
-H: Identify unit rates (11-30, -1 to -5).
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+H: Identify unit rates (11-30, -1 to -5).</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06RPR1.
-M06RPR1.3a
-6.RP.A.3
-Use ratio and rate reasoning to 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06RPR1.3a</td>
+      <td>6.RP.A.3</td>
+      <td>Use ratio and rate reasoning to 
 solve problems in authentic 
 contexts that use equivalent 
 ratios, unit rates, percents, and/or 
-measurement units.
-Identify missing value in 
-input/output table.
-L: Tables with unit rates 1-2. 
+measurement units.</td>
+      <td>Identify missing value in 
+input/output table.</td>
+      <td>L: Tables with unit rates 1-2. 
 M: Table with unit rates 3-5. 
-H: Table with unit rates 6-10.
-### M06STP1.2
-M06STP1.2
-6.DR.B.2
-Collect and record data with
+H: Table with unit rates 6-10.</td>
+    </tr>
+    <tr>
+      <td>M06STP1.2</td>
+      <td>6.DR.B.2</td>
+      <td>Collect and record data with
 technology to identify and 
 describe the characteristics of 
 numerical data sets using 
 quantitative measures of center 
-and variability.
-Identify average score from 
-a dataset.
-L: Calculate average of 2 numbers 
+and variability.</td>
+      <td>Identify average score from 
+a dataset.</td>
+      <td>L: Calculate average of 2 numbers 
 (0-5). 
 M: Calculate average of 3 numbers 
 (6-10). 
 H: Calculate average of 4 numbers 
-(6-10).
-### M06STP1.3
-M06STP1.3
-6.DR.C.3
-Analyze data representations and 
+(6-10).</td>
+    </tr>
+    <tr>
+      <td>M06STP1.3</td>
+      <td>6.DR.C.3</td>
+      <td>Analyze data representations and 
 describe measures of center and 
 variability of quantitative data 
-using appropriate displays.
-Identify mean of a given
+using appropriate displays.</td>
+      <td>Identify mean of a given
 dataset when provided with 
-a definition.
-L: Identify mean of three numbers in 
-1-10 range. 
-M: Identify mean of 5 numbers in 
-11-20 range. 
-H: Identify mean of 7 numbers in 
-21-40 range.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+a definition.</td>
+      <td>L: Identify mean of three numbers in 
+1-10 range.
+M: Identify mean of 5 numbers in
+11-20 range.
+H: Identify mean of 7 numbers in
+21-40 range.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06STP2.5
-M06STP2.5
-6.DR.D.4
-Interpret quantitative measures of 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06STP2.5</td>
+      <td>6.DR.D.4</td>
+      <td>Interpret quantitative measures of 
 center to describe differences
 between groups from data 
 collected to answer investigative 
-questions.
-Interpret data in picture, 
+questions.</td>
+      <td>Interpret data in picture, 
 bar, and line graphs to 
 determine the number of 
 observations, identify units, 
 and find the median to 
 describe differences 
-between groups.
-L: Identify the number of observations 
+between groups.</td>
+      <td>L: Identify the number of observations 
 (1-10) in picture graphs with three entries. 
 Identify the units used in picture graphs 
 (1-10). Identify the median of 2-3 
@@ -2167,62 +2146,61 @@ M: Identify the number of observations
 (1-20) in picture or bar graphs with 4-5 
 entries. Identify the units used in bar 
 graphs (11-20). Identify the median of 
-4-5 numbers in the 11-20 range. 
-H: Identify the number of observations 
-(1-40) in bar or line graphs with 6-8 
-entries. Identify the units used in line 
-graphs (21-40). Identify the median of 
-6-7 numbers in the 21-40 range.
-### M06TNS1.1
-M06TNS1.1
-6.NS.A.1, 
-6.NS.B.3
-Represent, interpret, and compute 
+4-5 numbers in the 11-20 range.
+H: Identify the number of observations
+(1-40) in bar or line graphs with 6-8
+entries. Identify the units used in line
+graphs (21-40). Identify the median of
+6-7 numbers in the 21-40 range.</td>
+    </tr>
+    <tr>
+      <td>M06TNS1.1</td>
+      <td>6.NS.A.1,
+6.NS.B.3</td>
+      <td>Represent, interpret, and compute 
 quotients of fractions to solve 
 problems in authentic contexts 
 involving division of fractions by 
-fractions.
-Use verbal and/or graphic
+fractions.</td>
+      <td>Use verbal and/or graphic
 models to solve problems
 involving addition and
 subtraction of whole 
 numbers 0-40 and fractions
-1/2, 1/4, 1/3, 1/8.
-L: Add numbers 0-10 and 1/2. 
+1/2, 1/4, 1/3, 1/8.</td>
+      <td>L: Add numbers 0-10 and 1/2. 
 M: Add and subtract to/from numbers 
-11-30, and 1/4. 
-H: Add and subtract to/from numbers 
-31-40, and fractions 1/3 and 1/8.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+11-30, and 1/4.
+H: Add and subtract to/from numbers
+31-40, and fractions 1/3 and 1/8.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06TNS2.2
-M06TNS2.2
-6.NS.B.2
-Fluently divide multi-digit 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06TNS2.2</td>
+      <td>6.NS.B.2</td>
+      <td>Fluently divide multi-digit 
 numbers using accurate, efficient, 
 and flexible strategies and 
 algorithms based on place value 
-and properties of operations.
-Use visual or verbal models 
+and properties of operations.</td>
+      <td>Use visual or verbal models 
 to divide whole numbers up 
-to 40 by 2, 5, or 10.
-L: Divide whole numbers up to 20 by 2 
+to 40 by 2, 5, or 10.</td>
+      <td>L: Divide whole numbers up to 20 by 2 
 using visual models (e.g., counters or 
 groups). 
 M: Divide whole numbers up to 40 by 5 
@@ -2230,11 +2208,12 @@ or 10 using arrays, area models, or verbal
 strategies. 
 H: Solve word problems involving fair 
 sharing or grouping where division results 
-in 0.5 or 0.25 using labeled visuals.
-### M06TNS2.4
-M06TNS2.4
-6.NS.B.4
-Determine greatest common
+in 0.5 or 0.25 using labeled visuals.</td>
+    </tr>
+    <tr>
+      <td>M06TNS2.4</td>
+      <td>6.NS.B.4</td>
+      <td>Determine greatest common
 factors and least common 
 multiples using a variety of 
 strategies. Apply the distributive 
@@ -2242,36 +2221,34 @@ property to express a sum of two
 whole numbers 1-100 with a 
 common factor as a multiple of a 
 sum of two whole numbers with 
-no common factor.
-Identify the greatest 
+no common factor.</td>
+      <td>Identify the greatest 
 common factor (GCF) 
 when provided with a table 
-of factors for 1-30.
-L: Identify GCF of numbers 1-10. 
+of factors for 1-30.</td>
+      <td>L: Identify GCF of numbers 1-10. 
 M: Identify GCF of numbers 12-20. 
-H: Identify GCF of numbers 21-30.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+H: Identify GCF of numbers 21-30.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06TNS3.5
-M06TNS3.5
-6.NS.C.5
-Understand that positive and 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06TNS3.5</td>
+      <td>6.NS.C.5</td>
+      <td>Understand that positive and 
 negative numbers are used 
 together to describe quantities 
 having opposite directions or 
@@ -2279,53 +2256,51 @@ values. Use positive and negative
 numbers to represent quantities 
 in authentic contexts, explaining 
 the meaning of zero in each 
-situation.
-Use visual and/or verbal 
+situation.</td>
+      <td>Use visual and/or verbal 
 models to solve real-world 
 problems involving 
 above/below zero (+/-1 to 
 +/-10) using degrees, 
 inches, feet, yards, meters, 
-or miles.
-L: Solve problems involving numbers 
+or miles.</td>
+      <td>L: Solve problems involving numbers 
 +/- 1-3. 
 M: Solve problems involving +/- 4-7. 
-H: Solve problems involving +/- 8-10.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+H: Solve problems involving +/- 8-10.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06TNS3.
-M06TNS3.6a
-6.NS.C.6
-Represent a rational number as a 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06TNS3.6a</td>
+      <td>6.NS.C.6</td>
+      <td>Represent a rational number as a 
 point on the number line. Extend 
 number line diagrams and 
 coordinate axes to represent 
 points on the line and in the 
 coordinate plane with negative 
-number coordinates.
-Identify and represent 
+number coordinates.</td>
+      <td>Identify and represent 
 rational numbers, including 
 positive and negative 
 values, fractions, and 
 decimals, on number lines 
-and coordinate planes.
-L: Identify numbers the same distance 
+and coordinate planes.</td>
+      <td>L: Identify numbers the same distance 
 from zero (±1 to ±3) on a number line. 
 Find Y when given X and verbal 
 directions in the first and second 
@@ -2342,43 +2317,41 @@ from zero (±8 to ±10) on a number line.
 Find a point using given coordinates in the 
 first and second quadrants of a coordinate 
 plane. Locate ⅓ and ⅛ on a number line 
-between 21-40.
-
-Math Grade 6
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+between 21-40.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent OR 
-Standard Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate 
+Code</td>
+      <td>Equivalent OR 
+Standard Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate 
 Academic Achievement 
 Standard (Essentialized 
-Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M06TNS3.
-M06TNS3.7a
-6.NS.C.7
-Interpret statements of inequality 
+Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M06TNS3.7a</td>
+      <td>6.NS.C.7</td>
+      <td>Interpret statements of inequality 
 as statements about the relative 
 position of two numbers on a 
 number line diagram. Write, 
 interpret, and explain statements 
 of order for rational numbers and 
 absolute value in authentic 
-applications.
-Use a number line to 
+applications.</td>
+      <td>Use a number line to 
 compare and order rational
 numbers, including 
 absolute values, and 
 interpret inequalities in 
-authentic contexts.
-L: Compare numbers 0-20 on a number 
+authentic contexts.</td>
+      <td>L: Compare numbers 0-20 on a number 
 line using <, >, =. Identify the absolute 
 value of numbers ±1 to ±3. 
 M: Compare numbers 21-50 on a number 
@@ -2386,368 +2359,376 @@ line using <, >, =. Identify the absolute
 value of numbers ±4 to ±7. 
 H: Compare numbers 51-80 on a number 
 line using <, >, =. Identify the absolute 
-value of numbers ±8 to ±10.
-6.AEE.A.1
-6.DR.A.1
-6.NS.C.8
-6.AEE.B.5
-Standards not Essentialized: 
-Please refer to Oregon’s published content standards for the full description and context of these codes.
+value of numbers ±8 to ±10.</td>
+    </tr>
+  </tbody>
+</table>
+```
 
-</details>
-<details open>
-<summary><strong>Grade 7</strong></summary>
-Math Grade 7
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+### Math Grade 7
+
+```{=html}
+### Math Grade 7
+<table class="standards-table">
+  <thead>
+    <tr>
+      <th scope="col">ORExt Standard Code</th>
+      <th scope="col">Equivalent OR Standard Code</th>
+      <th scope="col">2021 Oregon Mathematics Standards</th>
+      <th scope="col">Oregon Alternate Academic Achievement Standard (Essentialized Standard)</th>
+      <th scope="col">Low (L), Medium (M), High (H) Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent 
+Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M07EXE1.1
-M07EXE1.1
-7.AEE.A.1, 
-7.AEE.A.2
-Identify and write equivalent
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M07EXE1.1</td>
+      <td>7.AEE.A.1,
+7.AEE.A.2</td>
+      <td>Identify and write equivalent
 expressions with rational numbers by 
 applying associative, commutative, 
-and distributive properties.
-Add and subtract expressions 
+and distributive properties.</td>
+      <td>Add and subtract expressions 
 with one variable (0-50, -1 to -
-10).
-L: Add expressions (1-10). 
+10).</td>
+      <td>L: Add expressions (1-10). 
 M: Add expressions (11-30). 
-H: Add expression (31-50).
-### M07EXE2.3
-M07EXE2.3
-7.AEE.B.3
-Write and solve problems in authentic 
+H: Add expression (31-50).</td>
+    </tr>
+    <tr>
+      <td>M07EXE2.3</td>
+      <td>7.AEE.B.3</td>
+      <td>Write and solve problems in authentic 
 contexts using expressions and 
 equations with positive and negative 
 rational numbers in any form. 
 Contexts can be limited to those that 
 can be solved with one- or two-step 
-linear equations.
-Solve single-step real-life 
+linear equations.</td>
+      <td>Solve single-step real-life 
 problems with whole 
-numbers 1-20 and -1 to -10.
-L: Solve real-life problems with 
+numbers 1-20 and -1 to -10.</td>
+      <td>L: Solve real-life problems with 
 A/S of numbers (1-10). 
 M: Solve real-life problems with 
 A/S (11-30) and M/D (0-20). 
 H: Solve real-life problems with 
 A/S (31-50 or -1 to -10) and 
-M/D (21-40 or -1 to -5).
-### M07GEO1.1
-M07GEO1.1
-7.GM.A.1
-Solve problems involving scale 
+M/D (21-40 or -1 to -5).</td>
+    </tr>
+    <tr>
+      <td>M07GEO1.1</td>
+      <td>7.GM.A.1</td>
+      <td>Solve problems involving scale 
 drawings of geometric figures. 
 Reproduce a scale drawing at a 
 different scale and compute actual 
 lengths and areas from a scale 
-drawing.
-Use geometric figure to 
+drawing.</td>
+      <td>Use geometric figure to 
 identify changes in scale for 
 numbers 1-20, 1/2, 1/4, 1/3, 
-and 1/6.
-L: Identify figures with changes in 
+and 1/6.</td>
+      <td>L: Identify figures with changes in 
 scale (1-2) x (1-5). 
 M: Identify figures with changes in 
 scale (1-2) x (6-10), 1/2 and 1/4. 
 H: Identify figures with changes in 
-scale (1-2) x ( 11-20), 1/3 and 1/6.
-### M07GEO1.2
-M07GEO1.2
-7.GM.A.2
-Draw triangles from three measures
+scale (1-2) x ( 11-20), 1/3 and 1/6.</td>
+    </tr>
+    <tr>
+      <td>M07GEO1.2</td>
+      <td>7.GM.A.2</td>
+      <td>Draw triangles from three measures
 of angles or sides. Understand the
 possible side lengths and angle
 measures that determine a unique
 triangle, more than one triangle, or no 
-triangle.
-Identify geometric shapes, 
+triangle.</td>
+      <td>Identify geometric shapes, 
 including triangles, circles, 
 squares, rectangles, 
 rhombuses, pentagons, and 
-hexagons.
-L: Identify triangles and squares. 
+hexagons.</td>
+      <td>L: Identify triangles and squares. 
 M: Identify circles and rectangles. 
 H: Identify rhombuses, pentagons, 
-and hexagons.
-
-Math Grade 7
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+and hexagons.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent 
+Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M07GEO2.4
-M07GEO2.4
-7.GM.B.3
-Understand the relationship between 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M07GEO2.4</td>
+      <td>7.GM.B.3</td>
+      <td>Understand the relationship between 
 area and circumference of circles. 
 Choose and use the appropriate 
 formula to solve problems with 
 radius, diameter, circumference, and 
-area of circles.
-Use the formula for area and
+area of circles.</td>
+      <td>Use the formula for area and
 circumference of a circle to 
 identify answers to area 
 problems involving square 
-inches and square feet.
-L: Calculate area of square in square 
+inches and square feet.</td>
+      <td>L: Calculate area of square in square 
 inches with areas (1-10). 
 M: Calculate area of square in square 
 inches and feet with areas (11-20). 
 H: Calculate area of square or circle in 
 square inches and feet with areas (21-
-40).
-### M07RPR1.1
-M07RPR1.1
-7.RP.A.1
-Solve problems in authentic contexts 
+40).</td>
+    </tr>
+    <tr>
+      <td>M07RPR1.1</td>
+      <td>7.RP.A.1</td>
+      <td>Solve problems in authentic contexts 
 involving unit rates associated with 
-ratios of fractions.
-Compute unit rates using 
+ratios of fractions.</td>
+      <td>Compute unit rates using 
 numbers 0-100 or -1 to -10 
 with tables, graphs, equations, 
 diagrams, or verbal 
-descriptions.
-L: Identify unit rates (1-5). 
+descriptions.</td>
+      <td>L: Identify unit rates (1-5). 
 M: Identify unit rates (6-10). 
 H: Identify unit rates 
-(11-30, -1 to -5).
-### M07RPR1.
-M07RPR1.2C
-7.RP.A.2
-Recognize and represent proportional 
+(11-30, -1 to -5).</td>
+    </tr>
+    <tr>
+      <td>M07RPR1.2C</td>
+      <td>7.RP.A.2</td>
+      <td>Recognize and represent proportional 
 relationships between quantities in 
 tables, graphs, equations, diagrams, 
 and verbal descriptions of 
 proportional relationships. Identify the 
 constant of proportionality (unit rate) 
-within various representations.
-Identify an equation when 
+within various representations.</td>
+      <td>Identify an equation when 
 provided with a verbal 
-description.
-L: Identify equations involving 
+description.</td>
+      <td>L: Identify equations involving 
 A/S (0-10). 
 M: Identify equations involving 
 A/S ( 0-25) or M/D (0-10). 
 H: Identify equations involving 
-A/S (26-50) or M/D (11-40).
-
-Math Grade 7
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+A/S (26-50) or M/D (11-40).</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent 
+Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M07STP1.2
-M07STP1.2
-7.DR.B.2
-Collect or consider data from a
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M07STP1.2</td>
+      <td>7.DR.B.2</td>
+      <td>Collect or consider data from a
 random sample to compare and draw 
 inferences about a population with an 
-unknown characteristic of interest.
-Interpret data displays, totals, 
-or means using <, >, and =.
-L: Compare data, totals, or means
+unknown characteristic of interest.</td>
+      <td>Interpret data displays, totals, 
+or means using <, >, and =.</td>
+      <td>L: Compare data, totals, or means
 (0-10) using <, >, =. 
 M: Compare data totals, or means 
 (11-20) using <, >, =. 
 H: Compare data, totals, or means 
-(21-50) using <, >, =.
-### M07STP2.3
-M07STP2.3
-7.DR.C.3
-Analyze two data distributions
+(21-50) using <, >, =.</td>
+    </tr>
+    <tr>
+      <td>M07STP2.3</td>
+      <td>7.DR.C.3</td>
+      <td>Analyze two data distributions
 visually to compare multiple
-measures of center and variability
-Compare totals, means 
+measures of center and variability</td>
+      <td>Compare totals, means 
 (averages), and medians for 
 different groups using visual 
-displays.
-L: Identify greater total or mean 
+displays.</td>
+      <td>L: Identify greater total or mean 
 (average) for two groups (1-10). 
 M: Identify greater or lower mean 
 (average) for two groups (11-30). 
 H: Identify greater mean (average) or 
-median for 2-3 groups (31-50).
-### M07STP2.4
-M07STP2.4
-7.DR.D.4
-Interpret measures of center and 
+median for 2-3 groups (31-50).</td>
+    </tr>
+    <tr>
+      <td>M07STP2.4</td>
+      <td>7.DR.D.4</td>
+      <td>Interpret measures of center and 
 measures of variability for numerical 
 data from random samples to compare 
 between two populations, and to 
-answer investigative questions.
-Identify median and mean of a 
+answer investigative questions.</td>
+      <td>Identify median and mean of a 
 given dataset when provided 
-with a definition.
-L: Identify median/mean of 2-3 
+with a definition.</td>
+      <td>L: Identify median/mean of 2-3 
 numbers in 1-10 range. 
 M: Identify median/mean of 4-5 
 numbers in 11-30 range. 
 H: Identify median/mean of 6-7 
-numbers in 31-50 range.
-### M07STP3.5
-M07STP3.5
-7.RP.B.4, 
-7.RP.B.5
-Understand that the probability of a
+numbers in 31-50 range.</td>
+    </tr>
+    <tr>
+      <td>M07STP3.5</td>
+      <td>7.RP.B.4, 
+7.RP.B.5</td>
+      <td>Understand that the probability of a
 chance event is a number between 0
 and 1 that expresses the likelihood of 
 the event occurring. Represent 
 probabilities as fractions, decimals, 
-and percents.
-Identify probabilities of 50%, 
-25%, and 75%.
-L: Identify 50% probabilities. 
+and percents.</td>
+      <td>Identify probabilities of 50%, 
+25%, and 75%.</td>
+      <td>L: Identify 50% probabilities. 
 M: Identify 25% probabilities. 
-H: Identify 75% probabilities.
-
-Math Grade 7
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+H: Identify 75% probabilities.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent 
+Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M07STP3.
-M07STP3.7a
-7.RP.B.6
-Develop a probability model and use it 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M07STP3.7a</td>
+      <td>7.RP.B.6</td>
+      <td>Develop a probability model and use it 
 to find probabilities of events. 
 Compare theoretical and experimental 
 probabilities and explain possible 
-sources of discrepancy if any exists.
-Identify probability of being 
+sources of discrepancy if any exists.</td>
+      <td>Identify probability of being 
 selected for 1-10 grouped 
-items out of up to 40.
-L: Identify probabilities 1 out of 1item 
+items out of up to 40.</td>
+      <td>L: Identify probabilities 1 out of 1item 
 to 1 out of 10 items. 
 M: Identify probabilities 1-5 out of 11 
 items to 1-5 out of 20 items. 
 H: Identify probabilities 6-10 out of 
-21 items to 6-10 out of 40 items.
-### M07STP3.
-M07STP3.7b
-7.RP.B.6
-Develop a probability model and use it 
+21 items to 6-10 out of 40 items.</td>
+    </tr>
+    <tr>
+      <td>M07STP3.7b</td>
+      <td>7.RP.B.6</td>
+      <td>Develop a probability model and use it 
 to find probabilities of events. 
 Compare theoretical and experimental 
 probabilities and explain possible 
-sources of discrepancy if any exists.
-Compare observed 
-<div class="table-container">
-| frequencies using |
-</div>
-<, >, and =.
-L: Compare frequencies (1-6). 
+sources of discrepancy if any exists.</td>
+      <td>Compare observed 
+frequencies using
+<, >, and =.</td>
+      <td>L: Compare frequencies (1-6). 
 M: Compare frequencies (7-8). 
-H: Compare frequencies (9-10).
-### M07TNS1.
-M07TNS1.1A
-7.NS.A.1
-Apply and extend previous
+H: Compare frequencies (9-10).</td>
+    </tr>
+    <tr>
+      <td>M07TNS1.1A</td>
+      <td>7.NS.A.1</td>
+      <td>Apply and extend previous
 understandings of addition,
 subtraction and absolute value to add 
 and subtract rational numbers in 
 authentic contexts. Understand
 subtraction as adding the additive
-inverse, p – q = p + (–q).
-Use number lines and 
+inverse, p – q = p + (–q).</td>
+      <td>Use number lines and 
 mathematical reasoning to add 
 and subtract rational numbers, 
 including whole numbers, 
 decimals, percentages, and 
 fractions, in authentic 
-contexts.
-L: Combine numbers to make zero
+contexts.</td>
+      <td>L: Combine numbers to make zero
 (1-5 with -1 to -5). 
 M: Combine numbers to make zero 
 (6-10 with -6 to -10). 
 H: Combine numbers to make zero 
-(11-20 with -11 to -20).
-
-Math Grade 7
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
+(11-20 with -11 to -20).</td>
+    </tr>
+    <tr>
+      <td>ORExt 
 Standard 
-Code
-Equivalent 
+Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M07TNS1.
-M07TNS1.2A
-7.NS.A.2, 
-7.NS.A.3
-Apply and extend previous
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M07TNS1.2A</td>
+      <td>7.NS.A.2, 
+7.NS.A.3</td>
+      <td>Apply and extend previous
 understandings of multiplication and 
 division and of fractions to multiply 
 and divide rational numbers. Interpret 
 operations of rational numbers solving 
-problems in authentic contexts.
-Multiply and divide rational
+problems in authentic contexts.</td>
+      <td>Multiply and divide rational
 numbers, including whole 
 numbers, fractions, decimals, 
 and percentages, and interpret 
 their meaning in authentic 
-contexts.
-L: Identify the sign for multiplication 
+contexts.</td>
+      <td>L: Identify the sign for multiplication 
 problems with positive numbers (0-
 10). Identify halves (½, 2/4, 3/6, 4/8) 
 and decimals (.5) in data displays and 
@@ -2772,134 +2753,134 @@ displays and match them with their
 decimals (.75 and .125). Solve 
 multiplication and division problems 
 involving percentages (25%, 50%, 
-75%) of whole numbers 
+75%) of whole numbers</td>
+    </tr>
+  </tbody>
+</table>
+```
 
-Math Grade 7
-7.AEE.B.4
-7.DR.A.1
-7.GM.B.4
-7.NS.A.1
-7.RP.A.2
-7.GM.B.4
-7.RP.A.3
-7.RP.B.7
-7.RP.B.7
-Standards not Essentialized: 
-Please refer to Oregon’s published content standards for the full description and context of these codes.
+### Math Grade 8
 
-</details>
-<details open>
-<summary><strong>Grade 8</strong></summary>
-Math Grade 8
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+```{=html}
+### Math Grade 8
+<table class="standards-table">
+  <thead>
+    <tr>
+      <th scope="col">ORExt Standard Code</th>
+      <th scope="col">Equivalent OR Standard Code</th>
+      <th scope="col">2021 Oregon Mathematics Standards</th>
+      <th scope="col">Oregon Alternate Academic Achievement Standard (Essentialized Standard)</th>
+      <th scope="col">Low (L), Medium (M), High (H) Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M08EXE1.1
-M08EXE1.1
-8.AEE.A.1
-Apply the properties of integer 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M08EXE1.1</td>
+      <td>8.AEE.A.1</td>
+      <td>Apply the properties of integer 
 exponents using powers of 10 to 
 generate equivalent numerical 
-expressions.
-Identify equivalent 
-expressions using powers 1-3.
-L: Identify the number that matches 
+expressions.</td>
+      <td>Identify equivalent 
+expressions using powers 1-3.</td>
+      <td>L: Identify the number that matches 
 a first power expression (1-20). 
 M: Identify the number that matches 
 a second power expression. 
 H: Identify the number that matches 
-a 3rd power expression.
-### M08EXE1.3
-M08EXE1.3
-8.AEE.A.3
-Estimate very large or very small
+a 3rd power expression.</td>
+    </tr>
+    <tr>
+      <td>M08EXE1.3</td>
+      <td>8.AEE.A.3</td>
+      <td>Estimate very large or very small
 quantities using scientific notation 
 with a single digit times an integer 
-power of ten.
-Identify a number written as a 
+power of ten.</td>
+      <td>Identify a number written as a 
 power of ten that matches a 
 given number provided, when 
-given a model. 
-L: Identify 1-4 x 10 to the first 
+given a model.</td>
+      <td>L: Identify 1-4 x 10 to the first 
 power. 
 M: Identify 4-6 x 10 to the second 
 power. 
 H: Identify 7-9 x 10 to the second 
-power.
-### M08EXE1.4
-M08EXE1.4
-8.AEE.A.4
-Perform operations with numbers
-expressed in scientific notation.
-Identify whether power makes 
+power.</td>
+    </tr>
+    <tr>
+      <td>M08EXE1.4</td>
+      <td>8.AEE.A.4</td>
+      <td>Perform operations with numbers
+expressed in scientific notation.</td>
+      <td>Identify whether power makes 
 a number larger, smaller, or 
-the same.
-L: Identify powers of 1 as not 
+the same.</td>
+      <td>L: Identify powers of 1 as not 
 changing a number's value (1-20). 
 M: Identify positive powers as 
 making a number larger (21-50). 
 H: Identify negative powers, -1, -2, 
 and -3 as making a number smaller 
-(51-100).
-### M08EXE2.5
-M08EXE2.5
-8.AEE.B.5
-Graph proportional relationships in 
+(51-100).</td>
+    </tr>
+    <tr>
+      <td>M08EXE2.5</td>
+      <td>8.AEE.B.5</td>
+      <td>Graph proportional relationships in 
 authentic contexts. Interpret the 
 unit rate as the slope of the graph, 
 and compare two different 
 proportional relationships 
-represented in different ways.
-Interpret linear graphs to 
+represented in different ways.</td>
+      <td>Interpret linear graphs to 
 determine the slope (0-20, -1 
-to -5).
-L: Interpret linear slopes (0-5). 
+to -5).</td>
+      <td>L: Interpret linear slopes (0-5). 
 M: Interpret linear slopes (6-10). 
 H: Interpret linear slopes (11-20) 
-<div class="table-container">
-| and (-1 | to -5). |
-</div>
-
-Math Grade 8
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+and (-1  to -5).</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M08EXE2.6
-M08EXE2.6
-8.AEE.B.6
-Write the equation for a line in 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M08EXE2.6</td>
+      <td>8.AEE.B.6</td>
+      <td>Write the equation for a line in 
 slope intercept form y = mx + b, 
 where m and b are rational 
 numbers, and explain in context 
 why the slope m is the same 
-between any two distinct points.
-Identify lines with the same 
-slopes in similar triangles.
-L: Determine lines with the same 
+between any two distinct points.</td>
+      <td>Identify lines with the same 
+slopes in similar triangles.</td>
+      <td>L: Determine lines with the same 
 slope when triangles are oriented the 
 same way (45-45-90). 
 M: Determine lines with the same 
@@ -2908,137 +2889,131 @@ degrees (30-60-90).
 H: Determine lines with the same 
 slopes when triangles are rotated 180 
 degrees (acute or obtuse, non-
-isosceles triangles).
-### M08EXE3.
-M08EXE3.7A
-8.AEE.C.7, 
-8.AFN.A.3
-Solve linear equations with one 
+isosceles triangles).</td>
+    </tr>
+    <tr>
+      <td>M08EXE3.7A</td>
+      <td>8.AEE.C.7,
+8.AFN.A.3</td>
+      <td>Solve linear equations with one 
 variable including equations with 
 rational number coefficients, with 
 the variable on both sides, or 
 whose solutions require using the 
 distributive property and/or 
-combining like terms.
-Solve linear equations with 
-one variable (0-20).
-L: Solve equations with one A/S 
+combining like terms.</td>
+      <td>Solve linear equations with 
+one variable (0-20).</td>
+      <td>L: Solve equations with one A/S 
 operation. 
 M: Solve equations with 1 M/D 
 operation. 
 H: Solve equations with 1 A/S and 1 
-MD operation.
-### M08FUN1.1
-M08FUN1.1
-8.AFN.A.1
-Understand in authentic contexts, 
+MD operation.</td>
+    </tr>
+    <tr>
+      <td>M08FUN1.1</td>
+      <td>8.AFN.A.1</td>
+      <td>Understand in authentic contexts, 
 that the graph of a function is the 
 set of ordered pairs consisting of 
 an input and a corresponding 
-output.
-Identify missing numbers in 
-function output tables.
-L: Identify missing multiples of 
+output.</td>
+      <td>Identify missing numbers in 
+function output tables.</td>
+      <td>L: Identify missing multiples of 
 2-5. 
 M: Identify missing multiples of 
-6-10. 
-H: Identify missing multiples of 
-11-20.
-
-Math Grade 8
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+6-10.
+H: Identify missing multiples of
+11-20.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M08FUN1.2
-M08FUN1.2
-8.AFN.A.2
-Compare the properties of two 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M08FUN1.2</td>
+      <td>8.AFN.A.2</td>
+      <td>Compare the properties of two 
 functions represented algebraically, 
 graphically, numerically in tables, 
-or verbally by description.
-<div class="table-container">
-| Identify the output table | that |
-</div>
-matches a line graph.
-L: Match graph of line with slope (1-
+or verbally by description.</td>
+      <td>Identify the output table  that 
+matches a line graph.</td>
+      <td>L: Match graph of line with slope (1-
 3) to output table. 
 M: Match graph of line with slope (4-
 10) to output table. 
 H: Match graph of line with slope 
 (11-20, 1/2, 1/4, or -1/2, -1/4, -1 
-to -5) to output table.
-### M08FUN2.4
-M08FUN2.4
-8.AFN.B.4
-Construct a function to model a 
+to -5) to output table.</td>
+    </tr>
+    <tr>
+      <td>M08FUN2.4</td>
+      <td>8.AFN.B.4</td>
+      <td>Construct a function to model a 
 linear relationship in authentic 
-contexts between two quantities.
-Identify the graph that matches 
-an output table.
-L: Match output table to graph of 
+contexts between two quantities.</td>
+      <td>Identify the graph that matches 
+an output table.</td>
+      <td>L: Match output table to graph of 
 line with slope (1-3). 
-<div class="table-container">
-| M: Match output table to | graph of |
-</div>
+M: Match output table to  graph of 
 line with slope (4-10) to output table. 
-<div class="table-container">
-| H: Match output table to | graph of |
-</div>
+H: Match output table to  graph of 
 line with slope (11-20 and/or -1 
-to -5) to output table.
-### M08FUN2.5
-M08FUN2.5
-8.AFN.B.5
-Describe qualitatively the 
+to -5) to output table.</td>
+    </tr>
+    <tr>
+      <td>M08FUN2.5</td>
+      <td>8.AFN.B.5</td>
+      <td>Describe qualitatively the 
 functional relationship between 
 two quantities in authentic contexts 
-by analyzing a graph.
-Identify slope as positive, 
-negative, zero, or undefined.
-L: Identify positive slopes 1-3. 
+by analyzing a graph.</td>
+      <td>Identify slope as positive, 
+negative, zero, or undefined.</td>
+      <td>L: Identify positive slopes 1-3. 
 M: Identify negative slopes 4-10. 
-H: Identify zero or undefined slopes.
-
-Math Grade 8
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+H: Identify zero or undefined slopes.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M08GEO1.2
-M08GEO1.2
-8.GM.A.2
-Understand that a two-dimensional 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M08GEO1.2</td>
+      <td>8.GM.A.2</td>
+      <td>Understand that a two-dimensional 
 figure is congruent to another if the 
 second can be obtained from the 
 first by a sequence of rotations, 
-reflections, and translations.
-Identify congruent triangles 
+reflections, and translations.</td>
+      <td>Identify congruent triangles 
 that have been rotated 0-270 
-degrees.
-L: Identify congruent equilateral 
+degrees.</td>
+      <td>L: Identify congruent equilateral 
 triangles with 0, 30, 45, 60, or 90 
 degree rotation. 
 M: Identify congruent 30-60-90 or 
@@ -3046,89 +3021,90 @@ M: Identify congruent 30-60-90 or
 120,135,150, or 80 degree rotation. 
 H: Identify congruent acute, obtuse, 
 or isosceles triangle with 210, 225, 
-240, or 270 degree rotation.
-### M08GEO1.4
-M08GEO1.4
-8.GM.A.4
-Understand that a two-dimensional 
+240, or 270 degree rotation.</td>
+    </tr>
+    <tr>
+      <td>M08GEO1.4</td>
+      <td>8.GM.A.4</td>
+      <td>Understand that a two-dimensional 
 figure is similar to another if the 
 second can be obtained from the 
 first by a sequence of rotations, 
 reflections, translations, and/or 
-dilations.
-Identify similar triangles.
-L: Identify similar equilateral 
+dilations.</td>
+      <td>Identify similar triangles.</td>
+      <td>L: Identify similar equilateral 
 triangles. 
 M: Identify similar 30-60-90 or 
 45-45-90 triangles. 
 H: Identify similar acute, obtuse, or 
-isosceles triangles.
-### M08GEO2.6
-M08GEO2.6
-8.GM.B.6, 
+isosceles triangles.</td>
+    </tr>
+    <tr>
+      <td>M08GEO2.6</td>
+      <td>8.GM.B.6, 
 8.GM.B.7, 
-8.GM.B.8
-Distinguish between applications 
+8.GM.B.8</td>
+      <td>Distinguish between applications 
 of the Pythagorean Theorem and 
-its converse in authentic contexts.
-Identify the right angle and
+its converse in authentic contexts.</td>
+      <td>Identify the right angle and
 hypotenuse of a triangle; 
 identify the hypotenuse given 
 the side lengths and the 
-formula.
-L: Identify the right angle of a right 
+formula.</td>
+      <td>L: Identify the right angle of a right 
 triangle. 
 M: Identify the hypotenuse in a right 
 triangle. 
 H: Identify the appropriate 
 hypotenuse length given the side 
-lengths and the formula.
-
-Math Grade 8
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+lengths and the formula.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M08GEO3.9
-M08GEO3.9
-8.GM.C.9
-Choose and use the appropriate 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M08GEO3.9</td>
+      <td>8.GM.C.9</td>
+      <td>Choose and use the appropriate 
 formula for the volume of cones, 
 cylinders, and spheres to solve 
-problems in authentic contexts.
-Find the volume of a prism 
+problems in authentic contexts.</td>
+      <td>Find the volume of a prism 
 given a formula and example 
 (V= l x w x h) using cubic 
-inches, feet, and yards.
-L: Solve problems involving 
+inches, feet, and yards.</td>
+      <td>L: Solve problems involving 
 volumes 1-20. 
 M: Molve problems involving 
 volumes 21-50. 
 H: Solve problems involving 
-volumes 51-100.
-### M08STP1.1
-M08STP1.1
-8.DR.B.2, 
-8.DR.C.3
-Analyze patterns of association 
+volumes 51-100.</td>
+    </tr>
+    <tr>
+      <td>M08STP1.1</td>
+      <td>8.DR.B.2,
+8.DR.C.3</td>
+      <td>Analyze patterns of association 
 between two quantitative or 
 categorical variables and reason 
 about distributions to compare 
-groups.
-Identify the line of best fit for 
-a scatter plot.
-L: Identify lines of best fit for scatter 
+groups.</td>
+      <td>Identify the line of best fit for 
+a scatter plot.</td>
+      <td>L: Identify lines of best fit for scatter 
 plots that are widely different with 
 data that have tight variance (+/- 1 to 
 3). 
@@ -3139,220 +3115,229 @@ variance (+/- 1 to 5).
 H: Identify lines of best fit for scatter 
 plots that differ slightly with data that 
 have the widest variance. (+/- 1 to 
-10).
-### M08STP1.3
-M08STP1.3
-8.DR.D.4
-Interpret scatter plots for bivariate 
+10).</td>
+    </tr>
+    <tr>
+      <td>M08STP1.3</td>
+      <td>8.DR.D.4</td>
+      <td>Interpret scatter plots for bivariate 
 quantitative data to investigate 
 patterns of association between 
 two quantities to answer 
-investigative questions.
-Compare rates using 
+investigative questions.</td>
+      <td>Compare rates using 
 slower/less, faster/more, same 
 (mph, beats per second, $ per 
-hour, $ per lb).
-L: Identify faster rate using 0-20. 
+hour, $ per lb).</td>
+      <td>L: Identify faster rate using 0-20. 
 M: Identify slower, faster, or same 
 rate using 21-50. 
 H: Identify slower, faster, or same 
-rate using 51-100.
-
-Math Grade 8
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+rate using 51-100.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-<div class="table-container">
-| Low (L), Medium (M), High (H) |
-</div>
-Parameters
-### M08STP1.4
-M08STP1.4
-8.DR.A.1
-Formulate statistical investigative
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High (H)  
+Parameters</td>
+    </tr>
+    <tr>
+      <td>M08STP1.4</td>
+      <td>8.DR.A.1</td>
+      <td>Formulate statistical investigative
 questions to articulate research 
 topics and uncover patterns of 
 association seen in bivariate 
-categorical data.
-Interpret trend in line 
+categorical data.</td>
+      <td>Interpret trend in line 
 developed from real-world 
-data.
-L: Identify positive trends in data 
+data.</td>
+      <td>L: Identify positive trends in data 
 with slopes 1-5. 
 M: Identify positive slopes 6-10. 
 H: Identify negative trends 
--1 to -10, zero, or undefined slopes.
-### M08TNS1.1
-M08TNS1.1
-8.NS.A.1
-Know that real numbers that are 
-not rational are called irrational.
-Perform math operations with 
-rational numbers.
-L: Perform A/S operations with 1/2 
+-1 to -10, zero, or undefined slopes.</td>
+    </tr>
+    <tr>
+      <td>M08TNS1.1</td>
+      <td>8.NS.A.1</td>
+      <td>Know that real numbers that are 
+not rational are called irrational.</td>
+      <td>Perform math operations with 
+rational numbers.</td>
+      <td>L: Perform A/S operations with 1/2 
 and .5. 
 M: Perform A/S and M/D 
 operations with 1/4, 1/3, .25, .75. 
 H: Perform A/S and M/D with 
-<div class="table-container">
-| tenths, 1/10 to 5/10, .10 to .50, | and |
-</div>
-mixed numbers with 1/2 and 1/4.
-### M08TNS1.2
-M08TNS1.2
-8.AEE.A.2, 
-8.NS.A.2
-Use rational approximations of 
+tenths, 1/10 to 5/10, .10 to .50,  and 
+mixed numbers with 1/2 and 1/4.</td>
+    </tr>
+    <tr>
+      <td>M08TNS1.2</td>
+      <td>8.AEE.A.2,
+8.NS.A.2</td>
+      <td>Use rational approximations of 
 irrational numbers to compare size 
-and locate on a number line.
-Identify square roots of 
+and locate on a number line.</td>
+      <td>Identify square roots of 
 perfect squares up to 100; 
 locate irrational numbers on a 
-number line.
-L: Identify square roots of 1, 4, 9, 
+number line.</td>
+      <td>L: Identify square roots of 1, 4, 9, 
 and 16. 
 M: Identify square roots of 25, 36, 
 49, and 64 on a number line. 
 H: Locate square roots (81, 100), as 
 well as pi and the square root of 2 on 
-a number line.
-8.AEE.C.8
-8.GM.A.1
-8.GM.A.3
-8.GM.A.5
-Standards not Essentialized: 
-Please refer to Oregon’s published content standards for the full description and context of these codes.
+a number line.</td>
+    </tr>
+  </tbody>
+</table>
+```
 
-Math Grades 11/12 (High School)
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+### Math High School
+
+```{=html}
+### Math High School
+<table class="standards-table">
+  <thead>
+    <tr>
+      <th scope="col">ORExt Standard Code</th>
+      <th scope="col">Equivalent OR Standard Code</th>
+      <th scope="col">2021 Oregon Mathematics Standards</th>
+      <th scope="col">Oregon Alternate Academic Achievement Standard (Essentialized Standard)</th>
+      <th scope="col">Low (L), Medium (M), High (H) Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M11ALG1.
-M11ALG1.1a
-HS.AEE.A.1
-Interpret an expression which models 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H) Parameters</td>
+    </tr>
+    <tr>
+      <td>M11ALG1.1a</td>
+      <td>HS.AEE.A.1</td>
+      <td>Interpret an expression which models 
 a quantity by viewing one or more of 
 its parts as a single entity. Reason 
 about how changes in parts of the 
 expression impact the whole, and vice 
-versa.
-Identify parts of an 
+versa.</td>
+      <td>Identify parts of an 
 expression, including terms, 
-factors, and coefficients.
-L: Identify parts of first degree 
+factors, and coefficients.</td>
+      <td>L: Identify parts of first degree 
 expressions. 
 M: Identify parts of second 
 degree expressions. 
 H: Identify parts of third degree 
-expressions.
-### M11ALG2.3
-M11ALG2.3
-HS.AEE.D.11
-Graph and explain why the points in a 
+expressions.</td>
+    </tr>
+    <tr>
+      <td>M11ALG2.3</td>
+      <td>HS.AEE.D.11</td>
+      <td>Graph and explain why the points in a 
 half plane are solutions to a linear 
 inequality and the solutions to a 
 system of inequalities are the points in 
 the intersection of corresponding half 
 planes. Interpret the meaning of the 
 coordinates of these points in 
-authentic contexts.
-Solve linear equations with 
-one variable (0-40).
-L: Solve equations with 1 A/S 
+authentic contexts.</td>
+      <td>Solve linear equations with 
+one variable (0-40).</td>
+      <td>L: Solve equations with 1 A/S 
 operation (0-10). 
 M: Solve equations with 1 A/S 
 or M/D operation (0-20). 
 H: Solve equations with 2 
 operations A/S and/or M/D (0-
-40).
-### M11FUN1.
-M11FUN1.1a
-HS.AFN.A.2
-Use function notation and interpret 
+40).</td>
+    </tr>
+    <tr>
+      <td>M11FUN1.1a</td>
+      <td>HS.AFN.A.2</td>
+      <td>Use function notation and interpret 
 statements that use function notation 
 in terms of the context and the 
-relationship it describes.
-Identify the linear relationship 
+relationship it describes.</td>
+      <td>Identify the linear relationship 
 between two quantities as 
 positive, negative, or 
-undefined.
-L: Identify positive relationships 
+undefined.</td>
+      <td>L: Identify positive relationships 
 when provided a line graph. 
 M: Identify negative or 
 undefined relationships when 
 provided a line graph. 
 H: Identify the relationship 
 between two quantities given a 
-scenario.
-
-Math Grades 11/12 (High School)
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+scenario.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M11FUN1.2
-M11FUN1.2
-HS.AFN.D.8
-Model situations involving arithmetic 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M11FUN1.2</td>
+      <td>HS.AFN.D.8</td>
+      <td>Model situations involving arithmetic 
 patterns. Use a variety of 
 representations such as pictures, 
 graphs, or an explicit formula to 
-describe the pattern.
-Identifies common difference 
+describe the pattern.</td>
+      <td>Identifies common difference 
 or missing term in arithmetic 
-or geometric sequence.
-L: Identify the positive common 
+or geometric sequence.</td>
+      <td>L: Identify the positive common 
 difference in an arithmetic 
 sequence (1-10). 
 M: Identify missing term in 
 arithmetic sequence with 
 common differences (1 -20). 
 H: Identify missing term in 
-<div class="table-container">
-| geometric sequence with ratios |
-</div>
-(1/2, 1/4, 1/3, & 10-20).
-### M11FUN2.5
-M11FUN2.5
-HS.AFN.B.5, 
-HS.AFN.A.1
-Relate the domain of a function to its 
-graph and to its context.
-Identify input values (domain) 
+geometric sequence with ratios  
+(1/2, 1/4, 1/3, & 10-20).</td>
+    </tr>
+    <tr>
+      <td>M11FUN2.5</td>
+      <td>HS.AFN.B.5, 
+HS.AFN.A.1</td>
+      <td>Relate the domain of a function to its 
+graph and to its context.</td>
+      <td>Identify input values (domain) 
 that match a function table, 
-graph, or real-world situation.
-L: Identify the input (x-value) 
+graph, or real-world situation.</td>
+      <td>L: Identify the input (x-value) 
 for a given output in a simple 
 function table. 
 M: Identify the set of input 
@@ -3361,63 +3346,63 @@ a function.
 H: Identify or use input values 
 (domain) that make sense in a 
 real-world context (e.g., "You 
-can’t buy half a ticket").
-### M11FUN2.6
-M11FUN2.6
-HS.AFN.A.3
-Calculate and interpret the average rate 
+can’t buy half a ticket").</td>
+    </tr>
+    <tr>
+      <td>M11FUN2.6</td>
+      <td>HS.AFN.A.3</td>
+      <td>Calculate and interpret the average rate 
 of change of a function over a 
-specified interval.
-Identify slope as positive, 
-negative, zero, or undefined.
-L: Identify positive slopes 1-5. 
+specified interval.</td>
+      <td>Identify slope as positive, 
+negative, zero, or undefined.</td>
+      <td>L: Identify positive slopes 1-5. 
 M: Identify negative slopes 1-
 10. 
 H: Identify zero or undefined 
-slopes.
-
-Math Grades 11/12 (High School)
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+slopes.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M11FUN3.
-M11FUN3.7a
-HS.AFN.C.7
-Graph functions using technology to 
-show key features.
-Identify the x- and y- 
-intercepts for line graphs.
-L: Identify positive x intercept 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M11FUN3.7a</td>
+      <td>HS.AFN.C.7</td>
+      <td>Graph functions using technology to 
+show key features.</td>
+      <td>Identify the x- and y- 
+intercepts for line graphs.</td>
+      <td>L: Identify positive x intercept 
 and/or y intercept (1-10). 
 M: Identify negative x intercept 
 and/or y intercept (-1 to -10). 
 H: Identify negative and positive 
 intercepts of x and/or y axis (-10 
-to 10, including the origin).
-### M11FUN3.9
-M11FUN3.9
-HS.AFN.B.4
-Compare properties of two functions 
+to 10, including the origin).</td>
+    </tr>
+    <tr>
+      <td>M11FUN3.9</td>
+      <td>HS.AFN.B.4</td>
+      <td>Compare properties of two functions 
 using multiple representations. 
 Distinguish functions as members of 
 the same family using common 
-attributes.
-Match the algebraic, graphic, 
+attributes.</td>
+      <td>Match the algebraic, graphic, 
 numeric, or verbal format of a 
-linear function with its graph.
-L: Identify a line with negative 
+linear function with its graph.</td>
+      <td>L: Identify a line with negative 
 or positive slope when provided 
 with a model. 
 M: Match a numeric description 
@@ -3426,55 +3411,54 @@ of a line with its graph (numeric
 on line). 
 H: Match an algebraic 
 description of a line with its 
-graph.
-### M11GMG1.1
-M11GMG1.1
-HS.GM.C.10
-Use geometric shapes, their measures, 
+graph.</td>
+    </tr>
+    <tr>
+      <td>M11GMG1.1</td>
+      <td>HS.GM.C.10</td>
+      <td>Use geometric shapes, their measures, 
 and their properties to describe real 
 world objects, and solve related 
 authentic modeling and design 
-problems.
-Identify the geometric shape 
+problems.</td>
+      <td>Identify the geometric shape 
 of a given object (e.g., traffic 
-sign).
-L: Identify objects that are 
+sign).</td>
+      <td>L: Identify objects that are 
 shaped like squares. 
 M: Identify objects that are 
 shaped like circles or rectangles. 
 H: Identify objects that are 
 shaped like rhombuses, 
-pentagons, or octagons.
-
-Math Grades 11/12 (High School)
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+pentagons, or octagons.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M11GPE2.4
-M11GPE2.4
-HS.GM.D.14
-Use the coordinate plane to determine 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M11GPE2.4</td>
+      <td>HS.GM.D.14</td>
+      <td>Use the coordinate plane to determine 
 parallel and perpendicular 
 relationships, and the distance 
-between points.
-Use the coordinate plane to 
+between points.</td>
+      <td>Use the coordinate plane to 
 identify points and describe 
 simple geometric relationships 
 such as equal distance or 
-parallel lines.
-L: Identify two points that are 
+parallel lines.</td>
+      <td>L: Identify two points that are 
 the same distance from a third 
 point on a coordinate grid. 
 M: Identify a pair of lines as 
@@ -3483,77 +3467,75 @@ coordinate plane.
 H: Use coordinates to describe 
 or confirm equal distances or 
 parallel relationships in a figure 
-on the coordinate plane.
-### M11GRT2.5
-M11GRT2.5
-HS.GM.A.2
-Verify experimentally the properties 
+on the coordinate plane.</td>
+    </tr>
+    <tr>
+      <td>M11GRT2.5</td>
+      <td>HS.GM.A.2</td>
+      <td>Verify experimentally the properties 
 of a dilation given a center and a scale 
 factor. Solve problems in authentic 
 contexts involving similar triangles or 
-dilations.
-Identify similar triangles, 
+dilations.</td>
+      <td>Identify similar triangles, 
 circles, squares, rectangles, 
 rhombuses, pentagons, 
-hexagons, and octagons.
-L: Identify similar triangles, 
+hexagons, and octagons.</td>
+      <td>L: Identify similar triangles, 
 circles, and squares. 
 M: Identify similar rectangles, 
 and rhombuses. 
 H: Identify similar pentagons, 
-hexagons, and octagons.
-### M11NAQ1.1
-M11NAQ1.1
-HS.NQ.B.2
-Use reasoning to choose and interpret 
+hexagons, and octagons.</td>
+    </tr>
+    <tr>
+      <td>M11NAQ1.1</td>
+      <td>HS.NQ.B.2</td>
+      <td>Use reasoning to choose and interpret 
 measurement units consistently in 
 formulas, graphs, and data displays, 
 as a way to understand problems and 
 to guide the solution of multi-step 
-problems.
-Interpret the scale in graphs 
+problems.</td>
+      <td>Interpret the scale in graphs 
 and data displays. Identify 
 units that are appropriate to 
-scale.
-L: Identify the units used for y-
+scale.</td>
+      <td>L: Identify the units used for y-
 axis (range of 0-20). 
 M: Compare units in terms of 
-<div class="table-container">
-| magnitude (0-40). |
-</div>
+magnitude (0-40).  
 H: Identify units that are relevant 
-to scale of problem.
-
-Math Grades 11/12 (High School)
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+to scale of problem.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M11STP1.1
-M11STP1.1
-HS.DR.C.8
-Identify appropriate ways to 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M11STP1.1</td>
+      <td>HS.DR.C.8</td>
+      <td>Identify appropriate ways to 
 summarize and then represent the 
 distribution of univariate and bivariate 
 data multiple ways with graphs and/or 
 tables. Use technology to present data 
 that supports interpretation of tabular 
-and graphical representations.
-Identify quantities of a given 
+and graphical representations.</td>
+      <td>Identify quantities of a given 
 value for a line plot, 
-histogram, or dot plot.
-L: Identify quantities of values 
+histogram, or dot plot.</td>
+      <td>L: Identify quantities of values 
 in the 1-5 range with 3 value 
 entries. 
 M: Identify quantities of values 
@@ -3561,19 +3543,20 @@ in the 0-10 range with 4-5 value
 entries. 
 H: Identify quantities of values 
 in the 0-20 range with 6-8 value 
-entries.
-### M11STP1.2
-M11STP1.2
-HS.DR.C.9
-Use statistics appropriate to the shape 
+entries.</td>
+    </tr>
+    <tr>
+      <td>M11STP1.2</td>
+      <td>HS.DR.C.9</td>
+      <td>Use statistics appropriate to the shape 
 of the data distribution to compare the 
 center and spread of two or more 
-different data sets.
-Identify the mean, median, 
+different data sets.</td>
+      <td>Identify the mean, median, 
 and range of a given dataset 
 when provided with a model, 
-algorithm, or definition.
-L: Identify mean of 2-3 numbers 
+algorithm, or definition.</td>
+      <td>L: Identify mean of 2-3 numbers 
 in 1-20 range when provided a 
 model or algorithm. 
 M: Identify mean or median of 4-
@@ -3582,83 +3565,64 @@ provided a model or algorithm.
 H: Identify the range of 6-10 
 numbers in 51-100 range when 
 provided a model, algorithm, or 
-definition.
-
-Math Grades 11/12 (High School)
-Copyright Behavioral Research and Teaching (BRT) 2025
-ORExt 
-Standard Code
-Equivalent 
+definition.</td>
+    </tr>
+    <tr>
+      <td>ORExt 
+Standard Code</td>
+      <td>Equivalent 
 OR Standard 
-Code
-2021 Oregon Mathematics 
-Standards
-Oregon Alternate Academic 
+Code</td>
+      <td>2021 Oregon Mathematics 
+Standards</td>
+      <td>Oregon Alternate Academic 
 Achievement Standard 
-(Essentialized Standard)
-Low (L), Medium (M), High 
-<div class="table-container">
-| (H) | Parameters |
-</div>
-### M11STP1.5
-M11STP1.5
-HS.DR.B.7
-Apply an appropriate data collection 
+(Essentialized Standard)</td>
+      <td>Low (L), Medium (M), High 
+(H)  Parameters</td>
+    </tr>
+    <tr>
+      <td>M11STP1.5</td>
+      <td>HS.DR.B.7</td>
+      <td>Apply an appropriate data collection 
 plan when collecting primary data or 
 selecting secondary data for the 
 statistical investigative question of 
-interest.
-Identify values in a two-way 
+interest.</td>
+      <td>Identify values in a two-way 
 frequency table, given a 
-model.
-L: Identify the totals in a two-
+model.</td>
+      <td>L: Identify the totals in a two-
 way frequency table (1-20). 
 M: Identify the marginal 
 frequencies in a two-way 
 frequency table (21-50). 
 H: Compare frequencies in a 
 two-way frequency table using 
-the terms more, fewer, same.
-### M11STP1.
-M11STP1.6a
-HS.DR.C.8, 
-HS.DR.D.11
-Identify appropriate ways to 
+the terms more, fewer, same.</td>
+    </tr>
+    <tr>
+      <td>M11STP1.6a</td>
+      <td>HS.DR.C.8, 
+HS.DR.D.11</td>
+      <td>Identify appropriate ways to 
 summarize and then represent the 
 distribution of univariate and bivariate 
 data multiple ways with graphs and/or 
 tables. Use technology to present data 
 that supports interpretation of tabular 
-and graphical representations.
-Identify the type of linear 
+and graphical representations.</td>
+      <td>Identify the type of linear 
 relationship between variables 
 given linear graphs in 
-quadrant one.
-L: Identify positive linear 
+quadrant one.</td>
+      <td>L: Identify positive linear 
 relationships. 
 M: Identify negative linear 
 relationships. 
-<div class="table-container">
-| H: Identify | positive and |
-</div>
-negative slopes.
-HS.AFN.D.10
-HS.DR.C.8
-<div class="table-container">
-| HS.GM.A.2 | HS.NQ.B.3 |
-</div>
-HS.DR.D.12 
-HS.GM.A.3
-HS.DR.E.15
-HS.GM.B.5
-HS.GM.C.8
-Standards not Essentialized: 
-Please refer to Oregon’s published content standards for the full description and context of these codes.
-
-</main>
-</details>
-
-```{=html}
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  //
+H: Identify  positive and 
+negative slopes.</td>
+    </tr>
+  </tbody>
+</table>
+```

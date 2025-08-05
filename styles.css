@@ -223,3 +223,59 @@ nav.toc ul ul {
 html {
   scroll-behavior: smooth;
 }
+
+/* Standards Table Styling */
+.standards-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+}
+
+.standards-table th,
+.standards-table td {
+  border: 1px solid #ccc;
+  padding: 0.6rem;
+  vertical-align: top;
+}
+
+.standards-table th {
+  background-color: #d4edda; /* light green */
+  font-weight: bold;
+  text-align: left;
+}
+
+.standards-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .standards-table th,
+  .standards-table td {
+    display: block;
+    width: 100%;
+  }
+  .standards-table thead {
+    display: none;
+  }
+  .standards-table tr {
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+  }
+  .standards-table td {
+    border: none;
+    padding: 0.4rem 0;
+  }
+  .standards-table td::before {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+  .standards-table td:nth-of-type(1)::before { content: "ORExt Standard Code"; }
+  .standards-table td:nth-of-type(2)::before { content: "Equivalent OR Standard Code"; }
+  .standards-table td:nth-of-type(3)::before { content: "2021 Oregon Mathematics Standards"; }
+  .standards-table td:nth-of-type(4)::before { content: "Oregon Alternate Academic Achievement Standard (Essentialized Standard)"; }
+  .standards-table td:nth-of-type(5)::before { content: "Low (L), Medium (M), High (H) Parameters"; }
+}
