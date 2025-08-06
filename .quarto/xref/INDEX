@@ -37,5 +37,8 @@
   },
   "science PDFs/science.qmd": {
     "science.html": "c84d71d7"
+  },
+  "aaas_web_files/science_all_grades_structured.qmd": {
+    "science_all_grades_structured.html": "f05b953c"
   }
 }
